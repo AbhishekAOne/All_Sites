@@ -1,0 +1,382 @@
+[INFO]-[2019/06/28 05:53:26] Cloning: testkronos's clone job's data is not in database, generating data
+[INFO]-[2019/06/28 05:53:26] Cloning: testkronos's clone job's data is not in database, generating data
+[INFO]-[2019/06/28 05:53:27] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/06/28 05:53:27] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/06/28 05:53:28] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/06/28 05:53:28] DB Copy: 4b9_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:28] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/06/28 05:53:28] DB Copy: 4b9_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:28] DB Copy: Creating table wpstg0_failed_jobs
+[INFO]-[2019/06/28 05:53:28] DB Copy: Creating table wpstg0_failed_jobs
+[INFO]-[2019/06/28 05:53:29] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/06/28 05:53:29] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/06/28 05:53:30] DB Copy: Creating table wpstg0_mailchimp_carts
+[INFO]-[2019/06/28 05:53:30] DB Copy: Creating table wpstg0_mailchimp_carts
+[INFO]-[2019/06/28 05:53:30] DB Copy: Creating table wpstg0_mstoreapp_wishlist
+[INFO]-[2019/06/28 05:53:30] DB Copy: Creating table wpstg0_mstoreapp_wishlist
+[INFO]-[2019/06/28 05:53:31] DB Copy: Creating table wpstg0_nf3_action_meta
+[INFO]-[2019/06/28 05:53:31] DB Copy: 4b9_nf3_action_meta as wpstg0_nf3_action_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:31] DB Copy: Creating table wpstg0_nf3_action_meta
+[INFO]-[2019/06/28 05:53:31] DB Copy: 4b9_nf3_action_meta as wpstg0_nf3_action_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:32] DB Copy: Creating table wpstg0_nf3_actions
+[INFO]-[2019/06/28 05:53:32] DB Copy: 4b9_nf3_actions as wpstg0_nf3_actions from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:32] DB Copy: Creating table wpstg0_nf3_actions
+[INFO]-[2019/06/28 05:53:32] DB Copy: 4b9_nf3_actions as wpstg0_nf3_actions from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:32] DB Copy: Creating table wpstg0_nf3_chunks
+[INFO]-[2019/06/28 05:53:32] DB Copy: Creating table wpstg0_nf3_chunks
+[INFO]-[2019/06/28 05:53:33] DB Copy: Creating table wpstg0_nf3_field_meta
+[INFO]-[2019/06/28 05:53:33] DB Copy: 4b9_nf3_field_meta as wpstg0_nf3_field_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:33] DB Copy: Creating table wpstg0_nf3_field_meta
+[INFO]-[2019/06/28 05:53:33] DB Copy: 4b9_nf3_field_meta as wpstg0_nf3_field_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:34] DB Copy: Creating table wpstg0_nf3_fields
+[INFO]-[2019/06/28 05:53:34] DB Copy: 4b9_nf3_fields as wpstg0_nf3_fields from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:34] DB Copy: Creating table wpstg0_nf3_fields
+[INFO]-[2019/06/28 05:53:34] DB Copy: 4b9_nf3_fields as wpstg0_nf3_fields from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:34] DB Copy: Creating table wpstg0_nf3_form_meta
+[INFO]-[2019/06/28 05:53:34] DB Copy: 4b9_nf3_form_meta as wpstg0_nf3_form_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:34] DB Copy: Creating table wpstg0_nf3_form_meta
+[INFO]-[2019/06/28 05:53:34] DB Copy: 4b9_nf3_form_meta as wpstg0_nf3_form_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:35] DB Copy: Creating table wpstg0_nf3_forms
+[INFO]-[2019/06/28 05:53:35] DB Copy: 4b9_nf3_forms as wpstg0_nf3_forms from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:35] DB Copy: Creating table wpstg0_nf3_forms
+[INFO]-[2019/06/28 05:53:35] DB Copy: 4b9_nf3_forms as wpstg0_nf3_forms from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:35] DB Copy: Creating table wpstg0_nf3_object_meta
+[INFO]-[2019/06/28 05:53:35] DB Copy: Creating table wpstg0_nf3_object_meta
+[INFO]-[2019/06/28 05:53:36] DB Copy: Creating table wpstg0_nf3_objects
+[INFO]-[2019/06/28 05:53:36] DB Copy: Creating table wpstg0_nf3_objects
+[INFO]-[2019/06/28 05:53:37] DB Copy: Creating table wpstg0_nf3_relationships
+[INFO]-[2019/06/28 05:53:37] DB Copy: Creating table wpstg0_nf3_relationships
+[INFO]-[2019/06/28 05:53:37] DB Copy: Creating table wpstg0_nf3_upgrades
+[INFO]-[2019/06/28 05:53:37] DB Copy: 4b9_nf3_upgrades as wpstg0_nf3_upgrades from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:37] DB Copy: Creating table wpstg0_nf3_upgrades
+[INFO]-[2019/06/28 05:53:37] DB Copy: 4b9_nf3_upgrades as wpstg0_nf3_upgrades from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:38] DB Copy: Creating table wpstg0_ninja_forms_uploads
+[INFO]-[2019/06/28 05:53:38] DB Copy: 4b9_ninja_forms_uploads as wpstg0_ninja_forms_uploads from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:38] DB Copy: Creating table wpstg0_ninja_forms_uploads
+[INFO]-[2019/06/28 05:53:38] DB Copy: 4b9_ninja_forms_uploads as wpstg0_ninja_forms_uploads from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:39] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/06/28 05:53:39] DB Copy: 4b9_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:39] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/06/28 05:53:39] DB Copy: 4b9_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:39] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/06/28 05:53:39] DB Copy: 4b9_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:39] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/06/28 05:53:39] DB Copy: 4b9_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:40] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/06/28 05:53:40] DB Copy: 4b9_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:40] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/06/28 05:53:40] DB Copy: 4b9_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:41] DB Copy: Creating table wpstg0_queue
+[INFO]-[2019/06/28 05:53:41] DB Copy: Creating table wpstg0_queue
+[INFO]-[2019/06/28 05:53:41] DB Copy: Creating table wpstg0_redirection_404
+[INFO]-[2019/06/28 05:53:41] DB Copy: 4b9_redirection_404 as wpstg0_redirection_404 from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:41] DB Copy: Creating table wpstg0_redirection_404
+[INFO]-[2019/06/28 05:53:41] DB Copy: 4b9_redirection_404 as wpstg0_redirection_404 from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:42] DB Copy: Creating table wpstg0_redirection_groups
+[INFO]-[2019/06/28 05:53:42] DB Copy: 4b9_redirection_groups as wpstg0_redirection_groups from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:42] DB Copy: Creating table wpstg0_redirection_groups
+[INFO]-[2019/06/28 05:53:42] DB Copy: 4b9_redirection_groups as wpstg0_redirection_groups from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:43] DB Copy: Creating table wpstg0_redirection_items
+[INFO]-[2019/06/28 05:53:43] DB Copy: 4b9_redirection_items as wpstg0_redirection_items from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:43] DB Copy: Creating table wpstg0_redirection_items
+[INFO]-[2019/06/28 05:53:43] DB Copy: 4b9_redirection_items as wpstg0_redirection_items from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:43] DB Copy: Creating table wpstg0_redirection_logs
+[INFO]-[2019/06/28 05:53:43] DB Copy: 4b9_redirection_logs as wpstg0_redirection_logs from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:43] DB Copy: Creating table wpstg0_redirection_logs
+[INFO]-[2019/06/28 05:53:43] DB Copy: 4b9_redirection_logs as wpstg0_redirection_logs from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:44] DB Copy: Creating table wpstg0_revslider_css
+[INFO]-[2019/06/28 05:53:44] DB Copy: 4b9_revslider_css as wpstg0_revslider_css from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:44] DB Copy: Creating table wpstg0_revslider_css
+[INFO]-[2019/06/28 05:53:44] DB Copy: 4b9_revslider_css as wpstg0_revslider_css from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:45] DB Copy: Creating table wpstg0_revslider_layer_animations
+[INFO]-[2019/06/28 05:53:45] DB Copy: Creating table wpstg0_revslider_layer_animations
+[INFO]-[2019/06/28 05:53:46] DB Copy: Creating table wpstg0_revslider_navigations
+[INFO]-[2019/06/28 05:53:46] DB Copy: Creating table wpstg0_revslider_navigations
+[INFO]-[2019/06/28 05:53:46] DB Copy: Creating table wpstg0_revslider_sliders
+[INFO]-[2019/06/28 05:53:46] DB Copy: 4b9_revslider_sliders as wpstg0_revslider_sliders from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:46] DB Copy: Creating table wpstg0_revslider_sliders
+[INFO]-[2019/06/28 05:53:46] DB Copy: 4b9_revslider_sliders as wpstg0_revslider_sliders from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:47] DB Copy: Creating table wpstg0_revslider_slides
+[INFO]-[2019/06/28 05:53:47] DB Copy: 4b9_revslider_slides as wpstg0_revslider_slides from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:47] DB Copy: Creating table wpstg0_revslider_slides
+[INFO]-[2019/06/28 05:53:47] DB Copy: 4b9_revslider_slides as wpstg0_revslider_slides from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:48] DB Copy: Creating table wpstg0_revslider_static_slides
+[INFO]-[2019/06/28 05:53:48] DB Copy: Creating table wpstg0_revslider_static_slides
+[INFO]-[2019/06/28 05:53:48] DB Copy: Creating table wpstg0_rm_fields
+[INFO]-[2019/06/28 05:53:48] DB Copy: 4b9_rm_fields as wpstg0_rm_fields from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:48] DB Copy: Creating table wpstg0_rm_fields
+[INFO]-[2019/06/28 05:53:48] DB Copy: 4b9_rm_fields as wpstg0_rm_fields from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:49] DB Copy: Creating table wpstg0_rm_forms
+[INFO]-[2019/06/28 05:53:49] DB Copy: 4b9_rm_forms as wpstg0_rm_forms from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:49] DB Copy: Creating table wpstg0_rm_forms
+[INFO]-[2019/06/28 05:53:49] DB Copy: 4b9_rm_forms as wpstg0_rm_forms from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:50] DB Copy: Creating table wpstg0_rm_front_users
+[INFO]-[2019/06/28 05:53:50] DB Copy: Creating table wpstg0_rm_front_users
+[INFO]-[2019/06/28 05:53:50] DB Copy: Creating table wpstg0_rm_login
+[INFO]-[2019/06/28 05:53:50] DB Copy: 4b9_rm_login as wpstg0_rm_login from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:50] DB Copy: Creating table wpstg0_rm_login
+[INFO]-[2019/06/28 05:53:50] DB Copy: 4b9_rm_login as wpstg0_rm_login from 0 to 10000 records
+[INFO]-[2019/06/28 05:53:51] DB Copy: Creating table wpstg0_rm_login_log
+[INFO]-[2019/06/28 05:53:51] DB Copy: Creating table wpstg0_rm_login_log
+[INFO]-[2019/06/28 05:53:52] DB Copy: Creating table wpstg0_rm_notes
+[INFO]-[2019/06/28 05:53:52] DB Copy: Creating table wpstg0_rm_notes
+[INFO]-[2019/06/28 05:53:52] DB Copy: Creating table wpstg0_rm_paypal_fields
+[INFO]-[2019/06/28 05:53:52] DB Copy: Creating table wpstg0_rm_paypal_fields
+[INFO]-[2019/06/28 05:53:53] DB Copy: Creating table wpstg0_rm_paypal_logs
+[INFO]-[2019/06/28 05:53:53] DB Copy: Creating table wpstg0_rm_paypal_logs
+[INFO]-[2019/06/28 05:53:54] DB Copy: Creating table wpstg0_rm_rules
+[INFO]-[2019/06/28 05:53:54] DB Copy: Creating table wpstg0_rm_rules
+[INFO]-[2019/06/28 05:53:54] DB Copy: Creating table wpstg0_rm_sent_mails
+[INFO]-[2019/06/28 05:53:54] DB Copy: Creating table wpstg0_rm_sent_mails
+[INFO]-[2019/06/28 05:53:55] DB Copy: Creating table wpstg0_rm_sessions
+[INFO]-[2019/06/28 05:53:55] DB Copy: Creating table wpstg0_rm_sessions
+[INFO]-[2019/06/28 05:53:56] DB Copy: Creating table wpstg0_rm_stats
+[INFO]-[2019/06/28 05:53:56] DB Copy: Creating table wpstg0_rm_stats
+[INFO]-[2019/06/28 05:53:58] DB Copy: Creating table wpstg0_rm_submission_fields
+[INFO]-[2019/06/28 05:53:58] DB Copy: Creating table wpstg0_rm_submission_fields
+[INFO]-[2019/06/28 05:53:58] DB Copy: Creating table wpstg0_rm_submissions
+[INFO]-[2019/06/28 05:53:58] DB Copy: Creating table wpstg0_rm_submissions
+[INFO]-[2019/06/28 05:53:59] DB Copy: Creating table wpstg0_rm_task_exe_log
+[INFO]-[2019/06/28 05:53:59] DB Copy: Creating table wpstg0_rm_task_exe_log
+[INFO]-[2019/06/28 05:54:00] DB Copy: Creating table wpstg0_rm_tasks
+[INFO]-[2019/06/28 05:54:00] DB Copy: Creating table wpstg0_rm_tasks
+[INFO]-[2019/06/28 05:54:00] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/06/28 05:54:00] DB Copy: 4b9_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:00] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/06/28 05:54:00] DB Copy: 4b9_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:02] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/06/28 05:54:02] DB Copy: 4b9_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:02] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/06/28 05:54:02] DB Copy: 4b9_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:03] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/06/28 05:54:03] DB Copy: 4b9_termmeta as wpstg0_termmeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:03] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/06/28 05:54:03] DB Copy: 4b9_termmeta as wpstg0_termmeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:03] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/06/28 05:54:03] DB Copy: 4b9_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:03] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/06/28 05:54:03] DB Copy: 4b9_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:04] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/06/28 05:54:04] DB Copy: 4b9_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:04] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/06/28 05:54:04] DB Copy: 4b9_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:05] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/06/28 05:54:05] DB Copy: 4b9_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:05] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/06/28 05:54:05] DB Copy: 4b9_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:05] DB Copy: Creating table wpstg0_wc_cancel_orders
+[INFO]-[2019/06/28 05:54:05] DB Copy: 4b9_wc_cancel_orders as wpstg0_wc_cancel_orders from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:05] DB Copy: Creating table wpstg0_wc_cancel_orders
+[INFO]-[2019/06/28 05:54:05] DB Copy: 4b9_wc_cancel_orders as wpstg0_wc_cancel_orders from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:06] DB Copy: Creating table wpstg0_wc_download_log
+[INFO]-[2019/06/28 05:54:06] DB Copy: Creating table wpstg0_wc_download_log
+[INFO]-[2019/06/28 05:54:07] DB Copy: Creating table wpstg0_wc_product_meta_lookup
+[INFO]-[2019/06/28 05:54:07] DB Copy: 4b9_wc_product_meta_lookup as wpstg0_wc_product_meta_lookup from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:07] DB Copy: Creating table wpstg0_wc_product_meta_lookup
+[INFO]-[2019/06/28 05:54:07] DB Copy: 4b9_wc_product_meta_lookup as wpstg0_wc_product_meta_lookup from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:07] DB Copy: Creating table wpstg0_wc_webhooks
+[INFO]-[2019/06/28 05:54:07] DB Copy: Creating table wpstg0_wc_webhooks
+[INFO]-[2019/06/28 05:54:08] DB Copy: Creating table wpstg0_wfu_dbxqueue
+[INFO]-[2019/06/28 05:54:08] DB Copy: Creating table wpstg0_wfu_dbxqueue
+[INFO]-[2019/06/28 05:54:09] DB Copy: Creating table wpstg0_wfu_log
+[INFO]-[2019/06/28 05:54:09] DB Copy: Creating table wpstg0_wfu_log
+[INFO]-[2019/06/28 05:54:09] DB Copy: Creating table wpstg0_wfu_userdata
+[INFO]-[2019/06/28 05:54:09] DB Copy: Creating table wpstg0_wfu_userdata
+[INFO]-[2019/06/28 05:54:10] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2019/06/28 05:54:10] DB Copy: 4b9_woocommerce_api_keys as wpstg0_woocommerce_api_keys from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:10] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2019/06/28 05:54:10] DB Copy: 4b9_woocommerce_api_keys as wpstg0_woocommerce_api_keys from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:11] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2019/06/28 05:54:11] DB Copy: 4b9_woocommerce_attribute_taxonomies as wpstg0_woocommerce_attribute_taxonomies from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:11] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2019/06/28 05:54:11] DB Copy: 4b9_woocommerce_attribute_taxonomies as wpstg0_woocommerce_attribute_taxonomies from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:11] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2019/06/28 05:54:11] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2019/06/28 05:54:12] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2019/06/28 05:54:12] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2019/06/28 05:54:13] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2019/06/28 05:54:13] DB Copy: 4b9_woocommerce_order_itemmeta as wpstg0_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:13] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2019/06/28 05:54:13] DB Copy: 4b9_woocommerce_order_itemmeta as wpstg0_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:13] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2019/06/28 05:54:13] DB Copy: 4b9_woocommerce_order_items as wpstg0_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:13] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2019/06/28 05:54:13] DB Copy: 4b9_woocommerce_order_items as wpstg0_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:14] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2019/06/28 05:54:14] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2019/06/28 05:54:15] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2019/06/28 05:54:15] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2019/06/28 05:54:15] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2019/06/28 05:54:15] DB Copy: 4b9_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:15] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2019/06/28 05:54:15] DB Copy: 4b9_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:16] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2019/06/28 05:54:16] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2019/06/28 05:54:17] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2019/06/28 05:54:17] DB Copy: 4b9_woocommerce_shipping_zone_methods as wpstg0_woocommerce_shipping_zone_methods from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:17] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2019/06/28 05:54:17] DB Copy: 4b9_woocommerce_shipping_zone_methods as wpstg0_woocommerce_shipping_zone_methods from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:17] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2019/06/28 05:54:17] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2019/06/28 05:54:18] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2019/06/28 05:54:18] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2019/06/28 05:54:19] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2019/06/28 05:54:19] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2019/06/28 05:54:19] DB Copy: Creating table wpstg0_wpeditor_settings
+[INFO]-[2019/06/28 05:54:19] DB Copy: 4b9_wpeditor_settings as wpstg0_wpeditor_settings from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:19] DB Copy: Creating table wpstg0_wpeditor_settings
+[INFO]-[2019/06/28 05:54:19] DB Copy: 4b9_wpeditor_settings as wpstg0_wpeditor_settings from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:20] DB Copy: Creating table wpstg0_wpfm_backup
+[INFO]-[2019/06/28 05:54:20] DB Copy: Creating table wpstg0_wpfm_backup
+[INFO]-[2019/06/28 05:54:21] DB Copy: Creating table wpstg0_wpforms_entries
+[INFO]-[2019/06/28 05:54:21] DB Copy: Creating table wpstg0_wpforms_entries
+[INFO]-[2019/06/28 05:54:21] DB Copy: Creating table wpstg0_wpforms_entry_fields
+[INFO]-[2019/06/28 05:54:21] DB Copy: Creating table wpstg0_wpforms_entry_fields
+[INFO]-[2019/06/28 05:54:22] DB Copy: Creating table wpstg0_wpforms_entry_meta
+[INFO]-[2019/06/28 05:54:22] DB Copy: Creating table wpstg0_wpforms_entry_meta
+[INFO]-[2019/06/28 05:54:23] DB Copy: Creating table wpstg0_yith_wcwl
+[INFO]-[2019/06/28 05:54:23] DB Copy: 4b9_yith_wcwl as wpstg0_yith_wcwl from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:23] DB Copy: Creating table wpstg0_yith_wcwl
+[INFO]-[2019/06/28 05:54:23] DB Copy: 4b9_yith_wcwl as wpstg0_yith_wcwl from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:23] DB Copy: Creating table wpstg0_yith_wcwl_lists
+[INFO]-[2019/06/28 05:54:23] DB Copy: 4b9_yith_wcwl_lists as wpstg0_yith_wcwl_lists from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:23] DB Copy: Creating table wpstg0_yith_wcwl_lists
+[INFO]-[2019/06/28 05:54:23] DB Copy: 4b9_yith_wcwl_lists as wpstg0_yith_wcwl_lists from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:24] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/06/28 05:54:24] DB Copy: 4b9_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:24] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/06/28 05:54:24] DB Copy: 4b9_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:25] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/06/28 05:54:25] DB Copy: 4b9_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/06/28 05:54:25] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/06/28 05:54:25] DB Copy: 4b9_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:27] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/06/28 05:54:27] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:30] DB Processing:  Table wpstg0_nf3_action_meta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:30] DB Processing:  Table wpstg0_nf3_action_meta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:31] DB Processing:  Table wpstg0_nf3_actions 0 to 5000 records
+[INFO]-[2019/06/28 05:54:31] DB Processing:  Table wpstg0_nf3_actions 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:32] DB Processing:  Table wpstg0_nf3_field_meta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:32] DB Processing:  Table wpstg0_nf3_field_meta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:33] DB Processing:  Table wpstg0_nf3_fields 0 to 5000 records
+[INFO]-[2019/06/28 05:54:33] DB Processing:  Table wpstg0_nf3_fields 0 to 5000 records
+[INFO]-[2019/06/28 05:54:33] DB Processing:  Table wpstg0_nf3_form_meta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:33] DB Processing:  Table wpstg0_nf3_form_meta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:34] DB Processing:  Table wpstg0_nf3_forms 0 to 5000 records
+[INFO]-[2019/06/28 05:54:34] DB Processing:  Table wpstg0_nf3_forms 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:37] DB Processing:  Table wpstg0_nf3_upgrades 0 to 5000 records
+[INFO]-[2019/06/28 05:54:37] DB Processing:  Table wpstg0_nf3_upgrades 0 to 5000 records
+[INFO]-[2019/06/28 05:54:37] DB Processing:  Table wpstg0_ninja_forms_uploads 0 to 5000 records
+[INFO]-[2019/06/28 05:54:37] DB Processing:  Table wpstg0_ninja_forms_uploads 0 to 5000 records
+[INFO]-[2019/06/28 05:54:38] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/06/28 05:54:38] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/06/28 05:54:39] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:39] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/06/28 05:54:40] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/06/28 05:54:40] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:41] DB Processing:  Table wpstg0_redirection_404 0 to 5000 records
+[INFO]-[2019/06/28 05:54:41] DB Processing:  Table wpstg0_redirection_404 0 to 5000 records
+[INFO]-[2019/06/28 05:54:42] DB Processing:  Table wpstg0_redirection_groups 0 to 5000 records
+[INFO]-[2019/06/28 05:54:42] DB Processing:  Table wpstg0_redirection_groups 0 to 5000 records
+[INFO]-[2019/06/28 05:54:42] DB Processing:  Table wpstg0_redirection_items 0 to 5000 records
+[INFO]-[2019/06/28 05:54:42] DB Processing:  Table wpstg0_redirection_items 0 to 5000 records
+[INFO]-[2019/06/28 05:54:43] DB Processing:  Table wpstg0_redirection_logs 0 to 5000 records
+[INFO]-[2019/06/28 05:54:43] DB Processing:  Table wpstg0_redirection_logs 0 to 5000 records
+[INFO]-[2019/06/28 05:54:44] DB Processing:  Table wpstg0_revslider_css 0 to 5000 records
+[INFO]-[2019/06/28 05:54:44] DB Processing:  Table wpstg0_revslider_css 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:46] DB Processing:  Table wpstg0_revslider_sliders 0 to 5000 records
+[INFO]-[2019/06/28 05:54:46] DB Processing:  Table wpstg0_revslider_sliders 0 to 5000 records
+[INFO]-[2019/06/28 05:54:46] DB Processing:  Table wpstg0_revslider_slides 0 to 5000 records
+[INFO]-[2019/06/28 05:54:46] DB Processing:  Table wpstg0_revslider_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:48] DB Processing:  Table wpstg0_rm_fields 0 to 5000 records
+[INFO]-[2019/06/28 05:54:48] DB Processing:  Table wpstg0_rm_fields 0 to 5000 records
+[INFO]-[2019/06/28 05:54:48] DB Processing:  Table wpstg0_rm_forms 0 to 5000 records
+[INFO]-[2019/06/28 05:54:48] DB Processing:  Table wpstg0_rm_forms 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:50] DB Processing:  Table wpstg0_rm_login 0 to 5000 records
+[INFO]-[2019/06/28 05:54:50] DB Processing:  Table wpstg0_rm_login 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:54:58] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/06/28 05:54:58] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/06/28 05:54:59] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/06/28 05:54:59] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/06/28 05:55:00] DB Processing:  Table wpstg0_termmeta 0 to 5000 records
+[INFO]-[2019/06/28 05:55:00] DB Processing:  Table wpstg0_termmeta 0 to 5000 records
+[INFO]-[2019/06/28 05:55:00] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/06/28 05:55:00] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/06/28 05:55:02] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/06/28 05:55:02] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/06/28 05:55:03] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/06/28 05:55:03] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/06/28 05:55:03] DB Processing:  Table wpstg0_wc_cancel_orders 0 to 5000 records
+[INFO]-[2019/06/28 05:55:03] DB Processing:  Table wpstg0_wc_cancel_orders 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:55:05] DB Processing:  Table wpstg0_wc_product_meta_lookup 0 to 5000 records
+[INFO]-[2019/06/28 05:55:05] DB Processing:  Table wpstg0_wc_product_meta_lookup 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/28 05:55:08] DB Processing:  Table wpstg0_woocommerce_api_keys 0 to 5000 records
+[INFO]-[2019/06/28 05:55:08] DB Processing:  Table wpstg0_woocommerce_api_keys 0 to 5000 records
+[INFO]-[2019/06/28 05:55:11] Verifying existing clones...
+[INFO]-[2019/06/28 05:55:11] Delete: Nothing to save.'
+[INFO]-[2019/06/28 05:55:11] Verifying existing clones...
+[INFO]-[2019/06/28 05:55:11] Delete: Nothing to save.'

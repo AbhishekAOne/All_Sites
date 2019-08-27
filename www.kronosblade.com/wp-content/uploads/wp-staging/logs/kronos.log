@@ -1,0 +1,1348 @@
+[INFO]-[2019/06/30 08:34:43] Cloning: kronos's clone job's data is not in database, generating data
+[INFO]-[2019/06/30 08:34:43] Cloning: kronos's clone job's data is not in database, generating data
+[INFO]-[2019/06/30 08:34:43] DB Copy: Creating table wpstg1_commentmeta
+[INFO]-[2019/06/30 08:34:43] DB Copy: Creating table wpstg1_commentmeta
+[INFO]-[2019/06/30 08:34:44] DB Copy: Creating table wpstg1_comments
+[INFO]-[2019/06/30 08:34:44] DB Copy: 4b9_comments as wpstg1_comments from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:44] DB Copy: Creating table wpstg1_comments
+[INFO]-[2019/06/30 08:34:44] DB Copy: 4b9_comments as wpstg1_comments from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:45] DB Copy: Creating table wpstg1_failed_jobs
+[INFO]-[2019/06/30 08:34:45] DB Copy: Creating table wpstg1_failed_jobs
+[INFO]-[2019/06/30 08:34:45] DB Copy: Creating table wpstg1_links
+[INFO]-[2019/06/30 08:34:45] DB Copy: Creating table wpstg1_links
+[INFO]-[2019/06/30 08:34:46] DB Copy: Creating table wpstg1_mailchimp_carts
+[INFO]-[2019/06/30 08:34:46] DB Copy: Creating table wpstg1_mailchimp_carts
+[INFO]-[2019/06/30 08:34:47] DB Copy: Creating table wpstg1_mstoreapp_wishlist
+[INFO]-[2019/06/30 08:34:47] DB Copy: Creating table wpstg1_mstoreapp_wishlist
+[INFO]-[2019/06/30 08:34:47] DB Copy: Creating table wpstg1_nf3_action_meta
+[INFO]-[2019/06/30 08:34:47] DB Copy: 4b9_nf3_action_meta as wpstg1_nf3_action_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:47] DB Copy: Creating table wpstg1_nf3_action_meta
+[INFO]-[2019/06/30 08:34:47] DB Copy: 4b9_nf3_action_meta as wpstg1_nf3_action_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:48] DB Copy: Creating table wpstg1_nf3_actions
+[INFO]-[2019/06/30 08:34:48] DB Copy: 4b9_nf3_actions as wpstg1_nf3_actions from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:48] DB Copy: Creating table wpstg1_nf3_actions
+[INFO]-[2019/06/30 08:34:48] DB Copy: 4b9_nf3_actions as wpstg1_nf3_actions from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:49] DB Copy: Creating table wpstg1_nf3_chunks
+[INFO]-[2019/06/30 08:34:49] DB Copy: Creating table wpstg1_nf3_chunks
+[INFO]-[2019/06/30 08:34:49] DB Copy: Creating table wpstg1_nf3_field_meta
+[INFO]-[2019/06/30 08:34:49] DB Copy: 4b9_nf3_field_meta as wpstg1_nf3_field_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:49] DB Copy: Creating table wpstg1_nf3_field_meta
+[INFO]-[2019/06/30 08:34:49] DB Copy: 4b9_nf3_field_meta as wpstg1_nf3_field_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:50] DB Copy: Creating table wpstg1_nf3_fields
+[INFO]-[2019/06/30 08:34:50] DB Copy: 4b9_nf3_fields as wpstg1_nf3_fields from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:50] DB Copy: Creating table wpstg1_nf3_fields
+[INFO]-[2019/06/30 08:34:50] DB Copy: 4b9_nf3_fields as wpstg1_nf3_fields from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:51] DB Copy: Creating table wpstg1_nf3_form_meta
+[INFO]-[2019/06/30 08:34:51] DB Copy: 4b9_nf3_form_meta as wpstg1_nf3_form_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:51] DB Copy: Creating table wpstg1_nf3_form_meta
+[INFO]-[2019/06/30 08:34:51] DB Copy: 4b9_nf3_form_meta as wpstg1_nf3_form_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:53] DB Copy: Creating table wpstg1_nf3_forms
+[INFO]-[2019/06/30 08:34:53] DB Copy: 4b9_nf3_forms as wpstg1_nf3_forms from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:53] DB Copy: Creating table wpstg1_nf3_forms
+[INFO]-[2019/06/30 08:34:53] DB Copy: 4b9_nf3_forms as wpstg1_nf3_forms from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:53] DB Copy: Creating table wpstg1_nf3_object_meta
+[INFO]-[2019/06/30 08:34:53] DB Copy: Creating table wpstg1_nf3_object_meta
+[INFO]-[2019/06/30 08:34:54] DB Copy: Creating table wpstg1_nf3_objects
+[INFO]-[2019/06/30 08:34:54] DB Copy: Creating table wpstg1_nf3_objects
+[INFO]-[2019/06/30 08:34:55] DB Copy: Creating table wpstg1_nf3_relationships
+[INFO]-[2019/06/30 08:34:55] DB Copy: Creating table wpstg1_nf3_relationships
+[INFO]-[2019/06/30 08:34:56] DB Copy: Creating table wpstg1_nf3_upgrades
+[INFO]-[2019/06/30 08:34:56] DB Copy: 4b9_nf3_upgrades as wpstg1_nf3_upgrades from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:56] DB Copy: Creating table wpstg1_nf3_upgrades
+[INFO]-[2019/06/30 08:34:56] DB Copy: 4b9_nf3_upgrades as wpstg1_nf3_upgrades from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:57] DB Copy: Creating table wpstg1_ninja_forms_uploads
+[INFO]-[2019/06/30 08:34:57] DB Copy: 4b9_ninja_forms_uploads as wpstg1_ninja_forms_uploads from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:57] DB Copy: Creating table wpstg1_ninja_forms_uploads
+[INFO]-[2019/06/30 08:34:57] DB Copy: 4b9_ninja_forms_uploads as wpstg1_ninja_forms_uploads from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:58] DB Copy: Creating table wpstg1_options
+[INFO]-[2019/06/30 08:34:58] DB Copy: 4b9_options as wpstg1_options from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:58] DB Copy: Creating table wpstg1_options
+[INFO]-[2019/06/30 08:34:58] DB Copy: 4b9_options as wpstg1_options from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:59] DB Copy: Creating table wpstg1_postmeta
+[INFO]-[2019/06/30 08:34:59] DB Copy: 4b9_postmeta as wpstg1_postmeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:34:59] DB Copy: Creating table wpstg1_postmeta
+[INFO]-[2019/06/30 08:34:59] DB Copy: 4b9_postmeta as wpstg1_postmeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:00] DB Copy: Creating table wpstg1_posts
+[INFO]-[2019/06/30 08:35:00] DB Copy: 4b9_posts as wpstg1_posts from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:00] DB Copy: Creating table wpstg1_posts
+[INFO]-[2019/06/30 08:35:00] DB Copy: 4b9_posts as wpstg1_posts from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:01] DB Copy: Creating table wpstg1_queue
+[INFO]-[2019/06/30 08:35:01] DB Copy: Creating table wpstg1_queue
+[INFO]-[2019/06/30 08:35:02] DB Copy: Creating table wpstg1_redirection_404
+[INFO]-[2019/06/30 08:35:02] DB Copy: 4b9_redirection_404 as wpstg1_redirection_404 from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:02] DB Copy: Creating table wpstg1_redirection_404
+[INFO]-[2019/06/30 08:35:02] DB Copy: 4b9_redirection_404 as wpstg1_redirection_404 from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:03] DB Copy: Creating table wpstg1_redirection_groups
+[INFO]-[2019/06/30 08:35:03] DB Copy: 4b9_redirection_groups as wpstg1_redirection_groups from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:03] DB Copy: Creating table wpstg1_redirection_groups
+[INFO]-[2019/06/30 08:35:03] DB Copy: 4b9_redirection_groups as wpstg1_redirection_groups from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:04] DB Copy: Creating table wpstg1_redirection_items
+[INFO]-[2019/06/30 08:35:04] DB Copy: 4b9_redirection_items as wpstg1_redirection_items from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:04] DB Copy: Creating table wpstg1_redirection_items
+[INFO]-[2019/06/30 08:35:04] DB Copy: 4b9_redirection_items as wpstg1_redirection_items from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:05] DB Copy: Creating table wpstg1_redirection_logs
+[INFO]-[2019/06/30 08:35:05] DB Copy: 4b9_redirection_logs as wpstg1_redirection_logs from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:05] DB Copy: Creating table wpstg1_redirection_logs
+[INFO]-[2019/06/30 08:35:05] DB Copy: 4b9_redirection_logs as wpstg1_redirection_logs from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:06] DB Copy: Creating table wpstg1_revslider_css
+[INFO]-[2019/06/30 08:35:06] DB Copy: 4b9_revslider_css as wpstg1_revslider_css from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:06] DB Copy: Creating table wpstg1_revslider_css
+[INFO]-[2019/06/30 08:35:06] DB Copy: 4b9_revslider_css as wpstg1_revslider_css from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:07] DB Copy: Creating table wpstg1_revslider_layer_animations
+[INFO]-[2019/06/30 08:35:07] DB Copy: Creating table wpstg1_revslider_layer_animations
+[INFO]-[2019/06/30 08:35:08] DB Copy: Creating table wpstg1_revslider_navigations
+[INFO]-[2019/06/30 08:35:08] DB Copy: Creating table wpstg1_revslider_navigations
+[INFO]-[2019/06/30 08:35:09] DB Copy: Creating table wpstg1_revslider_sliders
+[INFO]-[2019/06/30 08:35:09] DB Copy: 4b9_revslider_sliders as wpstg1_revslider_sliders from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:09] DB Copy: Creating table wpstg1_revslider_sliders
+[INFO]-[2019/06/30 08:35:09] DB Copy: 4b9_revslider_sliders as wpstg1_revslider_sliders from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:10] DB Copy: Creating table wpstg1_revslider_slides
+[INFO]-[2019/06/30 08:35:10] DB Copy: 4b9_revslider_slides as wpstg1_revslider_slides from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:10] DB Copy: Creating table wpstg1_revslider_slides
+[INFO]-[2019/06/30 08:35:10] DB Copy: 4b9_revslider_slides as wpstg1_revslider_slides from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:11] DB Copy: Creating table wpstg1_revslider_static_slides
+[INFO]-[2019/06/30 08:35:11] DB Copy: Creating table wpstg1_revslider_static_slides
+[INFO]-[2019/06/30 08:35:12] DB Copy: Creating table wpstg1_rm_fields
+[INFO]-[2019/06/30 08:35:12] DB Copy: 4b9_rm_fields as wpstg1_rm_fields from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:12] DB Copy: Creating table wpstg1_rm_fields
+[INFO]-[2019/06/30 08:35:12] DB Copy: 4b9_rm_fields as wpstg1_rm_fields from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:13] DB Copy: Creating table wpstg1_rm_forms
+[INFO]-[2019/06/30 08:35:13] DB Copy: 4b9_rm_forms as wpstg1_rm_forms from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:13] DB Copy: Creating table wpstg1_rm_forms
+[INFO]-[2019/06/30 08:35:13] DB Copy: 4b9_rm_forms as wpstg1_rm_forms from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:14] DB Copy: Creating table wpstg1_rm_front_users
+[INFO]-[2019/06/30 08:35:14] DB Copy: Creating table wpstg1_rm_front_users
+[INFO]-[2019/06/30 08:35:15] DB Copy: Creating table wpstg1_rm_login
+[INFO]-[2019/06/30 08:35:15] DB Copy: 4b9_rm_login as wpstg1_rm_login from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:15] DB Copy: Creating table wpstg1_rm_login
+[INFO]-[2019/06/30 08:35:15] DB Copy: 4b9_rm_login as wpstg1_rm_login from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:16] DB Copy: Creating table wpstg1_rm_login_log
+[INFO]-[2019/06/30 08:35:16] DB Copy: Creating table wpstg1_rm_login_log
+[INFO]-[2019/06/30 08:35:17] DB Copy: Creating table wpstg1_rm_notes
+[INFO]-[2019/06/30 08:35:17] DB Copy: Creating table wpstg1_rm_notes
+[INFO]-[2019/06/30 08:35:18] DB Copy: Creating table wpstg1_rm_paypal_fields
+[INFO]-[2019/06/30 08:35:18] DB Copy: Creating table wpstg1_rm_paypal_fields
+[INFO]-[2019/06/30 08:35:19] DB Copy: Creating table wpstg1_rm_paypal_logs
+[INFO]-[2019/06/30 08:35:19] DB Copy: Creating table wpstg1_rm_paypal_logs
+[INFO]-[2019/06/30 08:35:20] DB Copy: Creating table wpstg1_rm_rules
+[INFO]-[2019/06/30 08:35:20] DB Copy: Creating table wpstg1_rm_rules
+[INFO]-[2019/06/30 08:35:21] DB Copy: Creating table wpstg1_rm_sent_mails
+[INFO]-[2019/06/30 08:35:21] DB Copy: Creating table wpstg1_rm_sent_mails
+[INFO]-[2019/06/30 08:35:22] DB Copy: Creating table wpstg1_rm_sessions
+[INFO]-[2019/06/30 08:35:22] DB Copy: Creating table wpstg1_rm_sessions
+[INFO]-[2019/06/30 08:35:23] DB Copy: Creating table wpstg1_rm_stats
+[INFO]-[2019/06/30 08:35:23] DB Copy: Creating table wpstg1_rm_stats
+[INFO]-[2019/06/30 08:35:24] DB Copy: Creating table wpstg1_rm_submission_fields
+[INFO]-[2019/06/30 08:35:24] DB Copy: Creating table wpstg1_rm_submission_fields
+[INFO]-[2019/06/30 08:35:25] DB Copy: Creating table wpstg1_rm_submissions
+[INFO]-[2019/06/30 08:35:25] DB Copy: Creating table wpstg1_rm_submissions
+[INFO]-[2019/06/30 08:35:26] DB Copy: Creating table wpstg1_rm_task_exe_log
+[INFO]-[2019/06/30 08:35:26] DB Copy: Creating table wpstg1_rm_task_exe_log
+[INFO]-[2019/06/30 08:35:27] DB Copy: Creating table wpstg1_rm_tasks
+[INFO]-[2019/06/30 08:35:27] DB Copy: Creating table wpstg1_rm_tasks
+[INFO]-[2019/06/30 08:35:28] DB Copy: Creating table wpstg1_term_relationships
+[INFO]-[2019/06/30 08:35:28] DB Copy: 4b9_term_relationships as wpstg1_term_relationships from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:28] DB Copy: Creating table wpstg1_term_relationships
+[INFO]-[2019/06/30 08:35:28] DB Copy: 4b9_term_relationships as wpstg1_term_relationships from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:29] DB Copy: Creating table wpstg1_term_taxonomy
+[INFO]-[2019/06/30 08:35:29] DB Copy: 4b9_term_taxonomy as wpstg1_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:29] DB Copy: Creating table wpstg1_term_taxonomy
+[INFO]-[2019/06/30 08:35:29] DB Copy: 4b9_term_taxonomy as wpstg1_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:30] DB Copy: Creating table wpstg1_termmeta
+[INFO]-[2019/06/30 08:35:30] DB Copy: 4b9_termmeta as wpstg1_termmeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:30] DB Copy: Creating table wpstg1_termmeta
+[INFO]-[2019/06/30 08:35:30] DB Copy: 4b9_termmeta as wpstg1_termmeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:31] DB Copy: Creating table wpstg1_terms
+[INFO]-[2019/06/30 08:35:31] DB Copy: 4b9_terms as wpstg1_terms from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:31] DB Copy: Creating table wpstg1_terms
+[INFO]-[2019/06/30 08:35:31] DB Copy: 4b9_terms as wpstg1_terms from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:32] DB Copy: Creating table wpstg1_usermeta
+[INFO]-[2019/06/30 08:35:32] DB Copy: 4b9_usermeta as wpstg1_usermeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:32] DB Copy: Creating table wpstg1_usermeta
+[INFO]-[2019/06/30 08:35:32] DB Copy: 4b9_usermeta as wpstg1_usermeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:33] DB Copy: Creating table wpstg1_users
+[INFO]-[2019/06/30 08:35:33] DB Copy: 4b9_users as wpstg1_users from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:33] DB Copy: Creating table wpstg1_users
+[INFO]-[2019/06/30 08:35:33] DB Copy: 4b9_users as wpstg1_users from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:34] DB Copy: Creating table wpstg1_wc_cancel_orders
+[INFO]-[2019/06/30 08:35:34] DB Copy: 4b9_wc_cancel_orders as wpstg1_wc_cancel_orders from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:34] DB Copy: Creating table wpstg1_wc_cancel_orders
+[INFO]-[2019/06/30 08:35:34] DB Copy: 4b9_wc_cancel_orders as wpstg1_wc_cancel_orders from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:35] DB Copy: Creating table wpstg1_wc_download_log
+[INFO]-[2019/06/30 08:35:35] DB Copy: Creating table wpstg1_wc_download_log
+[INFO]-[2019/06/30 08:35:36] DB Copy: Creating table wpstg1_wc_product_meta_lookup
+[INFO]-[2019/06/30 08:35:36] DB Copy: 4b9_wc_product_meta_lookup as wpstg1_wc_product_meta_lookup from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:36] DB Copy: Creating table wpstg1_wc_product_meta_lookup
+[INFO]-[2019/06/30 08:35:36] DB Copy: 4b9_wc_product_meta_lookup as wpstg1_wc_product_meta_lookup from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:37] DB Copy: Creating table wpstg1_wc_webhooks
+[INFO]-[2019/06/30 08:35:37] DB Copy: Creating table wpstg1_wc_webhooks
+[INFO]-[2019/06/30 08:35:38] DB Copy: Creating table wpstg1_wfu_dbxqueue
+[INFO]-[2019/06/30 08:35:38] DB Copy: Creating table wpstg1_wfu_dbxqueue
+[INFO]-[2019/06/30 08:35:39] DB Copy: Creating table wpstg1_wfu_log
+[INFO]-[2019/06/30 08:35:39] DB Copy: Creating table wpstg1_wfu_log
+[INFO]-[2019/06/30 08:35:40] DB Copy: Creating table wpstg1_wfu_userdata
+[INFO]-[2019/06/30 08:35:40] DB Copy: Creating table wpstg1_wfu_userdata
+[INFO]-[2019/06/30 08:35:41] DB Copy: Creating table wpstg1_woocommerce_api_keys
+[INFO]-[2019/06/30 08:35:41] DB Copy: 4b9_woocommerce_api_keys as wpstg1_woocommerce_api_keys from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:41] DB Copy: Creating table wpstg1_woocommerce_api_keys
+[INFO]-[2019/06/30 08:35:41] DB Copy: 4b9_woocommerce_api_keys as wpstg1_woocommerce_api_keys from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:42] DB Copy: Creating table wpstg1_woocommerce_attribute_taxonomies
+[INFO]-[2019/06/30 08:35:42] DB Copy: 4b9_woocommerce_attribute_taxonomies as wpstg1_woocommerce_attribute_taxonomies from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:42] DB Copy: Creating table wpstg1_woocommerce_attribute_taxonomies
+[INFO]-[2019/06/30 08:35:42] DB Copy: 4b9_woocommerce_attribute_taxonomies as wpstg1_woocommerce_attribute_taxonomies from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:43] DB Copy: Creating table wpstg1_woocommerce_downloadable_product_permissions
+[INFO]-[2019/06/30 08:35:43] DB Copy: Creating table wpstg1_woocommerce_downloadable_product_permissions
+[INFO]-[2019/06/30 08:35:44] DB Copy: Creating table wpstg1_woocommerce_log
+[INFO]-[2019/06/30 08:35:44] DB Copy: Creating table wpstg1_woocommerce_log
+[INFO]-[2019/06/30 08:35:45] DB Copy: Creating table wpstg1_woocommerce_order_itemmeta
+[INFO]-[2019/06/30 08:35:45] DB Copy: 4b9_woocommerce_order_itemmeta as wpstg1_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:45] DB Copy: Creating table wpstg1_woocommerce_order_itemmeta
+[INFO]-[2019/06/30 08:35:45] DB Copy: 4b9_woocommerce_order_itemmeta as wpstg1_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:46] DB Copy: Creating table wpstg1_woocommerce_order_items
+[INFO]-[2019/06/30 08:35:46] DB Copy: 4b9_woocommerce_order_items as wpstg1_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:46] DB Copy: Creating table wpstg1_woocommerce_order_items
+[INFO]-[2019/06/30 08:35:46] DB Copy: 4b9_woocommerce_order_items as wpstg1_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:47] DB Copy: Creating table wpstg1_woocommerce_payment_tokenmeta
+[INFO]-[2019/06/30 08:35:47] DB Copy: Creating table wpstg1_woocommerce_payment_tokenmeta
+[INFO]-[2019/06/30 08:35:48] DB Copy: Creating table wpstg1_woocommerce_payment_tokens
+[INFO]-[2019/06/30 08:35:48] DB Copy: Creating table wpstg1_woocommerce_payment_tokens
+[INFO]-[2019/06/30 08:35:49] DB Copy: Creating table wpstg1_woocommerce_sessions
+[INFO]-[2019/06/30 08:35:49] DB Copy: 4b9_woocommerce_sessions as wpstg1_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:49] DB Copy: Creating table wpstg1_woocommerce_sessions
+[INFO]-[2019/06/30 08:35:49] DB Copy: 4b9_woocommerce_sessions as wpstg1_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:50] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_locations
+[INFO]-[2019/06/30 08:35:50] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_locations
+[INFO]-[2019/06/30 08:35:51] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_methods
+[INFO]-[2019/06/30 08:35:51] DB Copy: 4b9_woocommerce_shipping_zone_methods as wpstg1_woocommerce_shipping_zone_methods from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:51] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_methods
+[INFO]-[2019/06/30 08:35:51] DB Copy: 4b9_woocommerce_shipping_zone_methods as wpstg1_woocommerce_shipping_zone_methods from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:53] DB Copy: Creating table wpstg1_woocommerce_shipping_zones
+[INFO]-[2019/06/30 08:35:53] DB Copy: Creating table wpstg1_woocommerce_shipping_zones
+[INFO]-[2019/06/30 08:35:54] DB Copy: Creating table wpstg1_woocommerce_tax_rate_locations
+[INFO]-[2019/06/30 08:35:54] DB Copy: Creating table wpstg1_woocommerce_tax_rate_locations
+[INFO]-[2019/06/30 08:35:55] DB Copy: Creating table wpstg1_woocommerce_tax_rates
+[INFO]-[2019/06/30 08:35:55] DB Copy: Creating table wpstg1_woocommerce_tax_rates
+[INFO]-[2019/06/30 08:35:56] DB Copy: Creating table wpstg1_wpeditor_settings
+[INFO]-[2019/06/30 08:35:56] DB Copy: 4b9_wpeditor_settings as wpstg1_wpeditor_settings from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:56] DB Copy: Creating table wpstg1_wpeditor_settings
+[INFO]-[2019/06/30 08:35:56] DB Copy: 4b9_wpeditor_settings as wpstg1_wpeditor_settings from 0 to 10000 records
+[INFO]-[2019/06/30 08:35:57] DB Copy: Creating table wpstg1_wpfm_backup
+[INFO]-[2019/06/30 08:35:57] DB Copy: Creating table wpstg1_wpfm_backup
+[INFO]-[2019/06/30 08:35:58] DB Copy: Creating table wpstg1_wpforms_entries
+[INFO]-[2019/06/30 08:35:58] DB Copy: Creating table wpstg1_wpforms_entries
+[INFO]-[2019/06/30 08:35:59] DB Copy: Creating table wpstg1_wpforms_entry_fields
+[INFO]-[2019/06/30 08:35:59] DB Copy: Creating table wpstg1_wpforms_entry_fields
+[INFO]-[2019/06/30 08:36:00] DB Copy: Creating table wpstg1_wpforms_entry_meta
+[INFO]-[2019/06/30 08:36:00] DB Copy: Creating table wpstg1_wpforms_entry_meta
+[INFO]-[2019/06/30 08:36:01] DB Copy: Creating table wpstg1_yith_wcwl
+[INFO]-[2019/06/30 08:36:01] DB Copy: 4b9_yith_wcwl as wpstg1_yith_wcwl from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:01] DB Copy: Creating table wpstg1_yith_wcwl
+[INFO]-[2019/06/30 08:36:01] DB Copy: 4b9_yith_wcwl as wpstg1_yith_wcwl from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:02] DB Copy: Creating table wpstg1_yith_wcwl_lists
+[INFO]-[2019/06/30 08:36:02] DB Copy: 4b9_yith_wcwl_lists as wpstg1_yith_wcwl_lists from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:02] DB Copy: Creating table wpstg1_yith_wcwl_lists
+[INFO]-[2019/06/30 08:36:02] DB Copy: 4b9_yith_wcwl_lists as wpstg1_yith_wcwl_lists from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:03] DB Copy: Creating table wpstg1_yoast_seo_links
+[INFO]-[2019/06/30 08:36:03] DB Copy: 4b9_yoast_seo_links as wpstg1_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:03] DB Copy: Creating table wpstg1_yoast_seo_links
+[INFO]-[2019/06/30 08:36:03] DB Copy: 4b9_yoast_seo_links as wpstg1_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:04] DB Copy: Creating table wpstg1_yoast_seo_meta
+[INFO]-[2019/06/30 08:36:04] DB Copy: 4b9_yoast_seo_meta as wpstg1_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/06/30 08:36:04] DB Copy: Creating table wpstg1_yoast_seo_meta
+[INFO]-[2019/06/30 08:36:04] DB Copy: 4b9_yoast_seo_meta as wpstg1_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:07] DB Processing:  Table wpstg1_comments 0 to 5000 records
+[INFO]-[2019/06/30 08:36:07] DB Processing:  Table wpstg1_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:12] DB Processing:  Table wpstg1_nf3_action_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:12] DB Processing:  Table wpstg1_nf3_action_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:13] DB Processing:  Table wpstg1_nf3_actions 0 to 5000 records
+[INFO]-[2019/06/30 08:36:13] DB Processing:  Table wpstg1_nf3_actions 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:15] DB Processing:  Table wpstg1_nf3_field_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:15] DB Processing:  Table wpstg1_nf3_field_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:16] DB Processing:  Table wpstg1_nf3_fields 0 to 5000 records
+[INFO]-[2019/06/30 08:36:16] DB Processing:  Table wpstg1_nf3_fields 0 to 5000 records
+[INFO]-[2019/06/30 08:36:17] DB Processing:  Table wpstg1_nf3_form_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:17] DB Processing:  Table wpstg1_nf3_form_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:18] DB Processing:  Table wpstg1_nf3_forms 0 to 5000 records
+[INFO]-[2019/06/30 08:36:18] DB Processing:  Table wpstg1_nf3_forms 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:22] DB Processing:  Table wpstg1_nf3_upgrades 0 to 5000 records
+[INFO]-[2019/06/30 08:36:22] DB Processing:  Table wpstg1_nf3_upgrades 0 to 5000 records
+[INFO]-[2019/06/30 08:36:23] DB Processing:  Table wpstg1_ninja_forms_uploads 0 to 5000 records
+[INFO]-[2019/06/30 08:36:23] DB Processing:  Table wpstg1_ninja_forms_uploads 0 to 5000 records
+[INFO]-[2019/06/30 08:36:24] DB Processing:  Table wpstg1_options 0 to 5000 records
+[INFO]-[2019/06/30 08:36:24] DB Processing:  Table wpstg1_options 0 to 5000 records
+[INFO]-[2019/06/30 08:36:25] DB Processing:  Table wpstg1_postmeta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:25] DB Processing:  Table wpstg1_postmeta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:26] DB Processing:  Table wpstg1_posts 0 to 5000 records
+[INFO]-[2019/06/30 08:36:26] DB Processing:  Table wpstg1_posts 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:28] DB Processing:  Table wpstg1_redirection_404 0 to 5000 records
+[INFO]-[2019/06/30 08:36:28] DB Processing:  Table wpstg1_redirection_404 0 to 5000 records
+[INFO]-[2019/06/30 08:36:29] DB Processing:  Table wpstg1_redirection_groups 0 to 5000 records
+[INFO]-[2019/06/30 08:36:29] DB Processing:  Table wpstg1_redirection_groups 0 to 5000 records
+[INFO]-[2019/06/30 08:36:30] DB Processing:  Table wpstg1_redirection_items 0 to 5000 records
+[INFO]-[2019/06/30 08:36:30] DB Processing:  Table wpstg1_redirection_items 0 to 5000 records
+[INFO]-[2019/06/30 08:36:31] DB Processing:  Table wpstg1_redirection_logs 0 to 5000 records
+[INFO]-[2019/06/30 08:36:31] DB Processing:  Table wpstg1_redirection_logs 0 to 5000 records
+[INFO]-[2019/06/30 08:36:32] DB Processing:  Table wpstg1_revslider_css 0 to 5000 records
+[INFO]-[2019/06/30 08:36:32] DB Processing:  Table wpstg1_revslider_css 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:35] DB Processing:  Table wpstg1_revslider_sliders 0 to 5000 records
+[INFO]-[2019/06/30 08:36:35] DB Processing:  Table wpstg1_revslider_sliders 0 to 5000 records
+[INFO]-[2019/06/30 08:36:36] DB Processing:  Table wpstg1_revslider_slides 0 to 5000 records
+[INFO]-[2019/06/30 08:36:36] DB Processing:  Table wpstg1_revslider_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:38] DB Processing:  Table wpstg1_rm_fields 0 to 5000 records
+[INFO]-[2019/06/30 08:36:38] DB Processing:  Table wpstg1_rm_fields 0 to 5000 records
+[INFO]-[2019/06/30 08:36:39] DB Processing:  Table wpstg1_rm_forms 0 to 5000 records
+[INFO]-[2019/06/30 08:36:39] DB Processing:  Table wpstg1_rm_forms 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:41] DB Processing:  Table wpstg1_rm_login 0 to 5000 records
+[INFO]-[2019/06/30 08:36:41] DB Processing:  Table wpstg1_rm_login 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:36:55] DB Processing:  Table wpstg1_term_relationships 0 to 5000 records
+[INFO]-[2019/06/30 08:36:55] DB Processing:  Table wpstg1_term_relationships 0 to 5000 records
+[INFO]-[2019/06/30 08:36:56] DB Processing:  Table wpstg1_term_taxonomy 0 to 5000 records
+[INFO]-[2019/06/30 08:36:56] DB Processing:  Table wpstg1_term_taxonomy 0 to 5000 records
+[INFO]-[2019/06/30 08:36:57] DB Processing:  Table wpstg1_termmeta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:57] DB Processing:  Table wpstg1_termmeta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:58] DB Processing:  Table wpstg1_terms 0 to 5000 records
+[INFO]-[2019/06/30 08:36:58] DB Processing:  Table wpstg1_terms 0 to 5000 records
+[INFO]-[2019/06/30 08:36:59] DB Processing:  Table wpstg1_usermeta 0 to 5000 records
+[INFO]-[2019/06/30 08:36:59] DB Processing:  Table wpstg1_usermeta 0 to 5000 records
+[INFO]-[2019/06/30 08:37:00] DB Processing:  Table wpstg1_users 0 to 5000 records
+[INFO]-[2019/06/30 08:37:00] DB Processing:  Table wpstg1_users 0 to 5000 records
+[INFO]-[2019/06/30 08:37:01] DB Processing:  Table wpstg1_wc_cancel_orders 0 to 5000 records
+[INFO]-[2019/06/30 08:37:01] DB Processing:  Table wpstg1_wc_cancel_orders 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:03] DB Processing:  Table wpstg1_wc_product_meta_lookup 0 to 5000 records
+[INFO]-[2019/06/30 08:37:03] DB Processing:  Table wpstg1_wc_product_meta_lookup 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:08] DB Processing:  Table wpstg1_woocommerce_api_keys 0 to 5000 records
+[INFO]-[2019/06/30 08:37:08] DB Processing:  Table wpstg1_woocommerce_api_keys 0 to 5000 records
+[INFO]-[2019/06/30 08:37:09] DB Processing:  Table wpstg1_woocommerce_attribute_taxonomies 0 to 5000 records
+[INFO]-[2019/06/30 08:37:09] DB Processing:  Table wpstg1_woocommerce_attribute_taxonomies 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:12] DB Processing:  Table wpstg1_woocommerce_order_itemmeta 0 to 5000 records
+[INFO]-[2019/06/30 08:37:12] DB Processing:  Table wpstg1_woocommerce_order_itemmeta 0 to 5000 records
+[INFO]-[2019/06/30 08:37:13] DB Processing:  Table wpstg1_woocommerce_order_items 0 to 5000 records
+[INFO]-[2019/06/30 08:37:13] DB Processing:  Table wpstg1_woocommerce_order_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:16] DB Processing:  Table wpstg1_woocommerce_sessions 0 to 5000 records
+[INFO]-[2019/06/30 08:37:16] DB Processing:  Table wpstg1_woocommerce_sessions 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:18] DB Processing:  Table wpstg1_woocommerce_shipping_zone_methods 0 to 5000 records
+[INFO]-[2019/06/30 08:37:18] DB Processing:  Table wpstg1_woocommerce_shipping_zone_methods 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:22] DB Processing:  Table wpstg1_wpeditor_settings 0 to 5000 records
+[INFO]-[2019/06/30 08:37:22] DB Processing:  Table wpstg1_wpeditor_settings 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:27] DB Processing:  Table wpstg1_yith_wcwl 0 to 5000 records
+[INFO]-[2019/06/30 08:37:27] DB Processing:  Table wpstg1_yith_wcwl 0 to 5000 records
+[INFO]-[2019/06/30 08:37:28] DB Processing:  Table wpstg1_yith_wcwl_lists 0 to 5000 records
+[INFO]-[2019/06/30 08:37:28] DB Processing:  Table wpstg1_yith_wcwl_lists 0 to 5000 records
+[INFO]-[2019/06/30 08:37:29] DB Processing:  Table wpstg1_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/06/30 08:37:29] DB Processing:  Table wpstg1_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/06/30 08:37:30] DB Processing:  Table wpstg1_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/06/30 08:37:30] DB Processing:  Table wpstg1_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:37:32] Scanning / for files
+[INFO]-[2019/06/30 08:37:32] Scanning / for files
+[INFO]-[2019/06/30 08:37:33] Scanning wp-content folder /home1/kronosb1/public_html/wp-content
+[INFO]-[2019/06/30 08:37:33] Scanning wp-content folder /home1/kronosb1/public_html/wp-content
+[INFO]-[2019/06/30 08:37:35] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/06/30 08:37:35] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/06/30 08:37:36] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/06/30 08:37:36] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/06/30 08:37:38] Copying files...
+[INFO]-[2019/06/30 08:37:38] Skipping big file: /home1/kronosb1/public_html/wordpress-5.2.1.tar.gz
+[INFO]-[2019/06/30 08:37:38] Total 50 files processed
+[INFO]-[2019/06/30 08:37:38] Copying files...
+[INFO]-[2019/06/30 08:37:38] Skipping big file: /home1/kronosb1/public_html/wordpress-5.2.1.tar.gz
+[INFO]-[2019/06/30 08:37:38] Total 50 files processed
+[INFO]-[2019/06/30 08:37:39] Total 100 files processed
+[INFO]-[2019/06/30 08:37:39] Total 100 files processed
+[INFO]-[2019/06/30 08:37:40] Total 150 files processed
+[INFO]-[2019/06/30 08:37:40] Total 150 files processed
+[INFO]-[2019/06/30 08:37:41] Total 200 files processed
+[INFO]-[2019/06/30 08:37:41] Total 200 files processed
+[INFO]-[2019/06/30 08:37:42] Total 250 files processed
+[INFO]-[2019/06/30 08:37:42] Total 250 files processed
+[INFO]-[2019/06/30 08:37:43] Total 300 files processed
+[INFO]-[2019/06/30 08:37:43] Total 300 files processed
+[INFO]-[2019/06/30 08:37:44] Total 350 files processed
+[INFO]-[2019/06/30 08:37:44] Total 350 files processed
+[INFO]-[2019/06/30 08:37:45] Total 400 files processed
+[INFO]-[2019/06/30 08:37:45] Total 400 files processed
+[INFO]-[2019/06/30 08:37:46] Total 450 files processed
+[INFO]-[2019/06/30 08:37:46] Total 450 files processed
+[INFO]-[2019/06/30 08:37:47] Total 500 files processed
+[INFO]-[2019/06/30 08:37:47] Total 500 files processed
+[INFO]-[2019/06/30 08:37:48] Total 550 files processed
+[INFO]-[2019/06/30 08:37:48] Total 550 files processed
+[INFO]-[2019/06/30 08:37:49] Total 600 files processed
+[INFO]-[2019/06/30 08:37:49] Total 600 files processed
+[INFO]-[2019/06/30 08:37:50] Total 650 files processed
+[INFO]-[2019/06/30 08:37:50] Total 650 files processed
+[INFO]-[2019/06/30 08:37:51] Total 700 files processed
+[INFO]-[2019/06/30 08:37:51] Total 700 files processed
+[INFO]-[2019/06/30 08:37:53] Total 750 files processed
+[INFO]-[2019/06/30 08:37:53] Total 750 files processed
+[INFO]-[2019/06/30 08:37:55] Total 800 files processed
+[INFO]-[2019/06/30 08:37:55] Total 800 files processed
+[INFO]-[2019/06/30 08:37:56] Total 850 files processed
+[INFO]-[2019/06/30 08:37:56] Total 850 files processed
+[INFO]-[2019/06/30 08:37:57] Total 900 files processed
+[INFO]-[2019/06/30 08:37:57] Total 900 files processed
+[INFO]-[2019/06/30 08:37:58] Total 950 files processed
+[INFO]-[2019/06/30 08:37:58] Total 950 files processed
+[INFO]-[2019/06/30 08:37:59] Total 1000 files processed
+[INFO]-[2019/06/30 08:37:59] Total 1000 files processed
+[INFO]-[2019/06/30 08:38:00] Total 1050 files processed
+[INFO]-[2019/06/30 08:38:00] Total 1050 files processed
+[INFO]-[2019/06/30 08:38:01] Total 1100 files processed
+[INFO]-[2019/06/30 08:38:01] Total 1100 files processed
+[INFO]-[2019/06/30 08:38:02] Total 1150 files processed
+[INFO]-[2019/06/30 08:38:02] Total 1150 files processed
+[INFO]-[2019/06/30 08:38:03] Total 1200 files processed
+[INFO]-[2019/06/30 08:38:03] Total 1200 files processed
+[INFO]-[2019/06/30 08:38:04] Total 1250 files processed
+[INFO]-[2019/06/30 08:38:04] Total 1250 files processed
+[INFO]-[2019/06/30 08:38:05] Total 1300 files processed
+[INFO]-[2019/06/30 08:38:05] Total 1300 files processed
+[INFO]-[2019/06/30 08:38:06] Total 1350 files processed
+[INFO]-[2019/06/30 08:38:06] Total 1350 files processed
+[INFO]-[2019/06/30 08:38:07] Total 1400 files processed
+[INFO]-[2019/06/30 08:38:07] Total 1400 files processed
+[INFO]-[2019/06/30 08:38:08] Total 1450 files processed
+[INFO]-[2019/06/30 08:38:08] Total 1450 files processed
+[INFO]-[2019/06/30 08:38:09] Total 1500 files processed
+[INFO]-[2019/06/30 08:38:09] Total 1500 files processed
+[INFO]-[2019/06/30 08:38:10] Total 1550 files processed
+[INFO]-[2019/06/30 08:38:10] Total 1550 files processed
+[INFO]-[2019/06/30 08:38:11] Total 1600 files processed
+[INFO]-[2019/06/30 08:38:11] Total 1600 files processed
+[INFO]-[2019/06/30 08:38:12] Total 1650 files processed
+[INFO]-[2019/06/30 08:38:12] Total 1650 files processed
+[INFO]-[2019/06/30 08:38:13] Total 1700 files processed
+[INFO]-[2019/06/30 08:38:13] Total 1700 files processed
+[INFO]-[2019/06/30 08:38:14] Total 1750 files processed
+[INFO]-[2019/06/30 08:38:14] Total 1750 files processed
+[INFO]-[2019/06/30 08:38:15] Total 1800 files processed
+[INFO]-[2019/06/30 08:38:15] Total 1800 files processed
+[INFO]-[2019/06/30 08:38:16] Total 1850 files processed
+[INFO]-[2019/06/30 08:38:16] Total 1850 files processed
+[INFO]-[2019/06/30 08:38:17] Total 1900 files processed
+[INFO]-[2019/06/30 08:38:17] Total 1900 files processed
+[INFO]-[2019/06/30 08:38:18] Total 1950 files processed
+[INFO]-[2019/06/30 08:38:18] Total 1950 files processed
+[INFO]-[2019/06/30 08:38:19] Total 2000 files processed
+[INFO]-[2019/06/30 08:38:19] Total 2000 files processed
+[INFO]-[2019/06/30 08:38:20] Total 2050 files processed
+[INFO]-[2019/06/30 08:38:20] Total 2050 files processed
+[INFO]-[2019/06/30 08:38:21] Total 2100 files processed
+[INFO]-[2019/06/30 08:38:21] Total 2100 files processed
+[INFO]-[2019/06/30 08:38:22] Total 2150 files processed
+[INFO]-[2019/06/30 08:38:22] Total 2150 files processed
+[INFO]-[2019/06/30 08:38:23] Total 2200 files processed
+[INFO]-[2019/06/30 08:38:23] Total 2200 files processed
+[INFO]-[2019/06/30 08:38:24] Total 2250 files processed
+[INFO]-[2019/06/30 08:38:24] Total 2250 files processed
+[INFO]-[2019/06/30 08:38:25] Total 2300 files processed
+[INFO]-[2019/06/30 08:38:25] Total 2300 files processed
+[INFO]-[2019/06/30 08:38:26] Total 2350 files processed
+[INFO]-[2019/06/30 08:38:26] Total 2350 files processed
+[INFO]-[2019/06/30 08:38:27] Total 2400 files processed
+[INFO]-[2019/06/30 08:38:27] Total 2400 files processed
+[INFO]-[2019/06/30 08:38:28] Total 2450 files processed
+[INFO]-[2019/06/30 08:38:28] Total 2450 files processed
+[INFO]-[2019/06/30 08:38:29] Total 2500 files processed
+[INFO]-[2019/06/30 08:38:29] Total 2500 files processed
+[INFO]-[2019/06/30 08:38:30] Total 2550 files processed
+[INFO]-[2019/06/30 08:38:30] Total 2550 files processed
+[INFO]-[2019/06/30 08:38:31] Total 2600 files processed
+[INFO]-[2019/06/30 08:38:31] Total 2600 files processed
+[INFO]-[2019/06/30 08:38:32] Total 2650 files processed
+[INFO]-[2019/06/30 08:38:32] Total 2650 files processed
+[INFO]-[2019/06/30 08:38:33] Total 2700 files processed
+[INFO]-[2019/06/30 08:38:33] Total 2700 files processed
+[INFO]-[2019/06/30 08:38:34] Total 2750 files processed
+[INFO]-[2019/06/30 08:38:34] Total 2750 files processed
+[INFO]-[2019/06/30 08:38:35] Total 2800 files processed
+[INFO]-[2019/06/30 08:38:35] Total 2800 files processed
+[INFO]-[2019/06/30 08:38:36] Total 2850 files processed
+[INFO]-[2019/06/30 08:38:36] Total 2850 files processed
+[INFO]-[2019/06/30 08:38:37] Total 2900 files processed
+[INFO]-[2019/06/30 08:38:37] Total 2900 files processed
+[INFO]-[2019/06/30 08:38:38] Total 2950 files processed
+[INFO]-[2019/06/30 08:38:38] Total 2950 files processed
+[INFO]-[2019/06/30 08:38:39] Total 3000 files processed
+[INFO]-[2019/06/30 08:38:39] Total 3000 files processed
+[INFO]-[2019/06/30 08:38:40] Total 3050 files processed
+[INFO]-[2019/06/30 08:38:40] Total 3050 files processed
+[INFO]-[2019/06/30 08:38:41] Total 3100 files processed
+[INFO]-[2019/06/30 08:38:41] Total 3100 files processed
+[INFO]-[2019/06/30 08:38:42] Total 3150 files processed
+[INFO]-[2019/06/30 08:38:42] Total 3150 files processed
+[INFO]-[2019/06/30 08:38:43] Total 3200 files processed
+[INFO]-[2019/06/30 08:38:43] Total 3200 files processed
+[INFO]-[2019/06/30 08:38:44] Total 3250 files processed
+[INFO]-[2019/06/30 08:38:44] Total 3250 files processed
+[INFO]-[2019/06/30 08:38:45] Total 3300 files processed
+[INFO]-[2019/06/30 08:38:45] Total 3300 files processed
+[INFO]-[2019/06/30 08:38:46] Total 3350 files processed
+[INFO]-[2019/06/30 08:38:46] Total 3350 files processed
+[INFO]-[2019/06/30 08:38:47] Total 3400 files processed
+[INFO]-[2019/06/30 08:38:47] Total 3400 files processed
+[INFO]-[2019/06/30 08:38:48] Total 3450 files processed
+[INFO]-[2019/06/30 08:38:48] Total 3450 files processed
+[INFO]-[2019/06/30 08:38:49] Total 3500 files processed
+[INFO]-[2019/06/30 08:38:49] Total 3500 files processed
+[INFO]-[2019/06/30 08:38:50] Total 3550 files processed
+[INFO]-[2019/06/30 08:38:50] Total 3550 files processed
+[INFO]-[2019/06/30 08:38:51] Total 3600 files processed
+[INFO]-[2019/06/30 08:38:51] Total 3600 files processed
+[INFO]-[2019/06/30 08:38:53] Total 3650 files processed
+[INFO]-[2019/06/30 08:38:53] Total 3650 files processed
+[INFO]-[2019/06/30 08:38:54] Total 3700 files processed
+[INFO]-[2019/06/30 08:38:54] Total 3700 files processed
+[INFO]-[2019/06/30 08:38:55] Total 3750 files processed
+[INFO]-[2019/06/30 08:38:55] Total 3750 files processed
+[INFO]-[2019/06/30 08:38:56] Total 3800 files processed
+[INFO]-[2019/06/30 08:38:56] Total 3800 files processed
+[INFO]-[2019/06/30 08:38:57] Total 3850 files processed
+[INFO]-[2019/06/30 08:38:57] Total 3850 files processed
+[INFO]-[2019/06/30 08:38:58] Total 3900 files processed
+[INFO]-[2019/06/30 08:38:58] Total 3900 files processed
+[INFO]-[2019/06/30 08:38:59] Total 3950 files processed
+[INFO]-[2019/06/30 08:38:59] Total 3950 files processed
+[INFO]-[2019/06/30 08:39:00] Total 4000 files processed
+[INFO]-[2019/06/30 08:39:00] Total 4000 files processed
+[INFO]-[2019/06/30 08:39:01] Total 4050 files processed
+[INFO]-[2019/06/30 08:39:01] Total 4050 files processed
+[INFO]-[2019/06/30 08:39:02] Total 4100 files processed
+[INFO]-[2019/06/30 08:39:02] Total 4100 files processed
+[INFO]-[2019/06/30 08:39:03] Total 4150 files processed
+[INFO]-[2019/06/30 08:39:03] Total 4150 files processed
+[INFO]-[2019/06/30 08:39:04] Total 4200 files processed
+[INFO]-[2019/06/30 08:39:04] Total 4200 files processed
+[INFO]-[2019/06/30 08:39:05] Total 4250 files processed
+[INFO]-[2019/06/30 08:39:05] Total 4250 files processed
+[INFO]-[2019/06/30 08:39:06] Total 4300 files processed
+[INFO]-[2019/06/30 08:39:06] Total 4300 files processed
+[INFO]-[2019/06/30 08:39:07] Total 4350 files processed
+[INFO]-[2019/06/30 08:39:07] Total 4350 files processed
+[INFO]-[2019/06/30 08:39:08] Total 4400 files processed
+[INFO]-[2019/06/30 08:39:08] Total 4400 files processed
+[INFO]-[2019/06/30 08:39:09] Total 4450 files processed
+[INFO]-[2019/06/30 08:39:09] Total 4450 files processed
+[INFO]-[2019/06/30 08:39:10] Total 4500 files processed
+[INFO]-[2019/06/30 08:39:10] Total 4500 files processed
+[INFO]-[2019/06/30 08:39:11] Total 4550 files processed
+[INFO]-[2019/06/30 08:39:11] Total 4550 files processed
+[INFO]-[2019/06/30 08:39:12] Total 4600 files processed
+[INFO]-[2019/06/30 08:39:12] Total 4600 files processed
+[INFO]-[2019/06/30 08:39:13] Total 4650 files processed
+[INFO]-[2019/06/30 08:39:13] Total 4650 files processed
+[INFO]-[2019/06/30 08:39:14] Total 4700 files processed
+[INFO]-[2019/06/30 08:39:14] Total 4700 files processed
+[INFO]-[2019/06/30 08:39:15] Total 4750 files processed
+[INFO]-[2019/06/30 08:39:15] Total 4750 files processed
+[INFO]-[2019/06/30 08:39:16] Total 4800 files processed
+[INFO]-[2019/06/30 08:39:16] Total 4800 files processed
+[INFO]-[2019/06/30 08:39:17] Total 4850 files processed
+[INFO]-[2019/06/30 08:39:17] Total 4850 files processed
+[INFO]-[2019/06/30 08:39:18] Total 4900 files processed
+[INFO]-[2019/06/30 08:39:18] Total 4900 files processed
+[INFO]-[2019/06/30 08:39:19] Total 4950 files processed
+[INFO]-[2019/06/30 08:39:19] Total 4950 files processed
+[INFO]-[2019/06/30 08:39:20] Total 5000 files processed
+[INFO]-[2019/06/30 08:39:20] Total 5000 files processed
+[INFO]-[2019/06/30 08:39:21] Total 5050 files processed
+[INFO]-[2019/06/30 08:39:21] Total 5050 files processed
+[INFO]-[2019/06/30 08:39:22] Total 5100 files processed
+[INFO]-[2019/06/30 08:39:22] Total 5100 files processed
+[INFO]-[2019/06/30 08:39:23] Total 5150 files processed
+[INFO]-[2019/06/30 08:39:23] Total 5150 files processed
+[INFO]-[2019/06/30 08:39:24] Total 5200 files processed
+[INFO]-[2019/06/30 08:39:24] Total 5200 files processed
+[INFO]-[2019/06/30 08:39:25] Total 5250 files processed
+[INFO]-[2019/06/30 08:39:25] Total 5250 files processed
+[INFO]-[2019/06/30 08:39:26] Total 5300 files processed
+[INFO]-[2019/06/30 08:39:26] Total 5300 files processed
+[INFO]-[2019/06/30 08:39:27] Total 5350 files processed
+[INFO]-[2019/06/30 08:39:27] Total 5350 files processed
+[INFO]-[2019/06/30 08:39:28] Total 5400 files processed
+[INFO]-[2019/06/30 08:39:28] Total 5400 files processed
+[INFO]-[2019/06/30 08:39:29] Total 5450 files processed
+[INFO]-[2019/06/30 08:39:29] Total 5450 files processed
+[INFO]-[2019/06/30 08:39:30] Total 5500 files processed
+[INFO]-[2019/06/30 08:39:30] Total 5500 files processed
+[INFO]-[2019/06/30 08:39:31] Total 5550 files processed
+[INFO]-[2019/06/30 08:39:31] Total 5550 files processed
+[INFO]-[2019/06/30 08:39:32] Total 5600 files processed
+[INFO]-[2019/06/30 08:39:32] Total 5600 files processed
+[INFO]-[2019/06/30 08:39:33] Total 5650 files processed
+[INFO]-[2019/06/30 08:39:33] Total 5650 files processed
+[INFO]-[2019/06/30 08:39:34] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1150.min.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/wordpress-seo/js/dist/analysis-1150.min.js
+[INFO]-[2019/06/30 08:39:34] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1150.min.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1150.min.js
+[INFO]-[2019/06/30 08:39:34] Total 5700 files processed
+[INFO]-[2019/06/30 08:39:34] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1150.min.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/wordpress-seo/js/dist/analysis-1150.min.js
+[INFO]-[2019/06/30 08:39:34] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1150.min.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1150.min.js
+[INFO]-[2019/06/30 08:39:34] Total 5700 files processed
+[INFO]-[2019/06/30 08:39:35] Total 5750 files processed
+[INFO]-[2019/06/30 08:39:35] Total 5750 files processed
+[INFO]-[2019/06/30 08:39:36] Total 5800 files processed
+[INFO]-[2019/06/30 08:39:36] Total 5800 files processed
+[INFO]-[2019/06/30 08:39:37] Total 5850 files processed
+[INFO]-[2019/06/30 08:39:37] Total 5850 files processed
+[INFO]-[2019/06/30 08:39:38] Total 5900 files processed
+[INFO]-[2019/06/30 08:39:38] Total 5900 files processed
+[INFO]-[2019/06/30 08:39:39] Total 5950 files processed
+[INFO]-[2019/06/30 08:39:39] Total 5950 files processed
+[INFO]-[2019/06/30 08:39:40] Total 6000 files processed
+[INFO]-[2019/06/30 08:39:40] Total 6000 files processed
+[INFO]-[2019/06/30 08:39:41] Total 6050 files processed
+[INFO]-[2019/06/30 08:39:41] Total 6050 files processed
+[INFO]-[2019/06/30 08:39:42] Total 6100 files processed
+[INFO]-[2019/06/30 08:39:42] Total 6100 files processed
+[INFO]-[2019/06/30 08:39:43] Total 6150 files processed
+[INFO]-[2019/06/30 08:39:43] Total 6150 files processed
+[INFO]-[2019/06/30 08:39:44] Total 6200 files processed
+[INFO]-[2019/06/30 08:39:44] Total 6200 files processed
+[INFO]-[2019/06/30 08:39:45] Total 6250 files processed
+[INFO]-[2019/06/30 08:39:45] Total 6250 files processed
+[INFO]-[2019/06/30 08:39:46] Total 6300 files processed
+[INFO]-[2019/06/30 08:39:46] Total 6300 files processed
+[INFO]-[2019/06/30 08:39:47] Total 6350 files processed
+[INFO]-[2019/06/30 08:39:47] Total 6350 files processed
+[INFO]-[2019/06/30 08:39:48] Total 6400 files processed
+[INFO]-[2019/06/30 08:39:48] Total 6400 files processed
+[INFO]-[2019/06/30 08:39:49] Total 6450 files processed
+[INFO]-[2019/06/30 08:39:49] Total 6450 files processed
+[INFO]-[2019/06/30 08:39:50] Total 6500 files processed
+[INFO]-[2019/06/30 08:39:50] Total 6500 files processed
+[INFO]-[2019/06/30 08:39:51] Total 6550 files processed
+[INFO]-[2019/06/30 08:39:51] Total 6550 files processed
+[INFO]-[2019/06/30 08:39:53] Total 6600 files processed
+[INFO]-[2019/06/30 08:39:53] Total 6600 files processed
+[INFO]-[2019/06/30 08:39:55] Total 6650 files processed
+[INFO]-[2019/06/30 08:39:55] Total 6650 files processed
+[INFO]-[2019/06/30 08:39:56] Total 6700 files processed
+[INFO]-[2019/06/30 08:39:56] Total 6700 files processed
+[INFO]-[2019/06/30 08:39:57] Total 6750 files processed
+[INFO]-[2019/06/30 08:39:57] Total 6750 files processed
+[INFO]-[2019/06/30 08:39:58] Total 6800 files processed
+[INFO]-[2019/06/30 08:39:58] Total 6800 files processed
+[INFO]-[2019/06/30 08:39:59] Total 6850 files processed
+[INFO]-[2019/06/30 08:39:59] Total 6850 files processed
+[INFO]-[2019/06/30 08:40:00] Total 6900 files processed
+[INFO]-[2019/06/30 08:40:00] Total 6900 files processed
+[INFO]-[2019/06/30 08:40:01] Total 6950 files processed
+[INFO]-[2019/06/30 08:40:01] Total 6950 files processed
+[INFO]-[2019/06/30 08:40:02] Total 7000 files processed
+[INFO]-[2019/06/30 08:40:02] Total 7000 files processed
+[INFO]-[2019/06/30 08:40:03] Total 7050 files processed
+[INFO]-[2019/06/30 08:40:03] Total 7050 files processed
+[INFO]-[2019/06/30 08:40:04] Total 7100 files processed
+[INFO]-[2019/06/30 08:40:04] Total 7100 files processed
+[INFO]-[2019/06/30 08:40:05] Total 7150 files processed
+[INFO]-[2019/06/30 08:40:05] Total 7150 files processed
+[INFO]-[2019/06/30 08:40:06] Total 7200 files processed
+[INFO]-[2019/06/30 08:40:06] Total 7200 files processed
+[INFO]-[2019/06/30 08:40:07] Total 7250 files processed
+[INFO]-[2019/06/30 08:40:07] Total 7250 files processed
+[INFO]-[2019/06/30 08:40:08] Total 7300 files processed
+[INFO]-[2019/06/30 08:40:08] Total 7300 files processed
+[INFO]-[2019/06/30 08:40:09] Total 7350 files processed
+[INFO]-[2019/06/30 08:40:09] Total 7350 files processed
+[INFO]-[2019/06/30 08:40:10] Total 7400 files processed
+[INFO]-[2019/06/30 08:40:10] Total 7400 files processed
+[INFO]-[2019/06/30 08:40:11] Total 7450 files processed
+[INFO]-[2019/06/30 08:40:11] Total 7450 files processed
+[INFO]-[2019/06/30 08:40:12] Total 7500 files processed
+[INFO]-[2019/06/30 08:40:12] Total 7500 files processed
+[INFO]-[2019/06/30 08:40:13] Total 7550 files processed
+[INFO]-[2019/06/30 08:40:13] Total 7550 files processed
+[INFO]-[2019/06/30 08:40:14] Total 7600 files processed
+[INFO]-[2019/06/30 08:40:14] Total 7600 files processed
+[INFO]-[2019/06/30 08:40:15] Total 7650 files processed
+[INFO]-[2019/06/30 08:40:15] Total 7650 files processed
+[INFO]-[2019/06/30 08:40:16] Total 7700 files processed
+[INFO]-[2019/06/30 08:40:16] Total 7700 files processed
+[INFO]-[2019/06/30 08:40:17] Total 7750 files processed
+[INFO]-[2019/06/30 08:40:17] Total 7750 files processed
+[INFO]-[2019/06/30 08:40:18] Total 7800 files processed
+[INFO]-[2019/06/30 08:40:18] Total 7800 files processed
+[INFO]-[2019/06/30 08:40:19] Total 7850 files processed
+[INFO]-[2019/06/30 08:40:19] Total 7850 files processed
+[INFO]-[2019/06/30 08:40:20] Total 7900 files processed
+[INFO]-[2019/06/30 08:40:20] Total 7900 files processed
+[INFO]-[2019/06/30 08:40:21] Total 7950 files processed
+[INFO]-[2019/06/30 08:40:21] Total 7950 files processed
+[INFO]-[2019/06/30 08:40:22] Total 8000 files processed
+[INFO]-[2019/06/30 08:40:22] Total 8000 files processed
+[INFO]-[2019/06/30 08:40:23] Total 8050 files processed
+[INFO]-[2019/06/30 08:40:23] Total 8050 files processed
+[INFO]-[2019/06/30 08:40:24] Total 8100 files processed
+[INFO]-[2019/06/30 08:40:24] Total 8100 files processed
+[INFO]-[2019/06/30 08:40:25] Total 8150 files processed
+[INFO]-[2019/06/30 08:40:25] Total 8150 files processed
+[INFO]-[2019/06/30 08:40:26] Total 8200 files processed
+[INFO]-[2019/06/30 08:40:26] Total 8200 files processed
+[INFO]-[2019/06/30 08:40:27] Total 8250 files processed
+[INFO]-[2019/06/30 08:40:27] Total 8250 files processed
+[INFO]-[2019/06/30 08:40:28] Total 8300 files processed
+[INFO]-[2019/06/30 08:40:28] Total 8300 files processed
+[INFO]-[2019/06/30 08:40:29] Total 8350 files processed
+[INFO]-[2019/06/30 08:40:29] Total 8350 files processed
+[INFO]-[2019/06/30 08:40:30] Total 8400 files processed
+[INFO]-[2019/06/30 08:40:30] Total 8400 files processed
+[INFO]-[2019/06/30 08:40:31] Total 8450 files processed
+[INFO]-[2019/06/30 08:40:31] Total 8450 files processed
+[INFO]-[2019/06/30 08:40:32] Total 8500 files processed
+[INFO]-[2019/06/30 08:40:32] Total 8500 files processed
+[INFO]-[2019/06/30 08:40:33] Total 8550 files processed
+[INFO]-[2019/06/30 08:40:33] Total 8550 files processed
+[INFO]-[2019/06/30 08:40:34] Total 8600 files processed
+[INFO]-[2019/06/30 08:40:34] Total 8600 files processed
+[INFO]-[2019/06/30 08:40:35] Total 8650 files processed
+[INFO]-[2019/06/30 08:40:35] Total 8650 files processed
+[INFO]-[2019/06/30 08:40:36] Total 8700 files processed
+[INFO]-[2019/06/30 08:40:36] Total 8700 files processed
+[INFO]-[2019/06/30 08:40:37] Total 8750 files processed
+[INFO]-[2019/06/30 08:40:37] Total 8750 files processed
+[INFO]-[2019/06/30 08:40:38] Total 8800 files processed
+[INFO]-[2019/06/30 08:40:38] Total 8800 files processed
+[INFO]-[2019/06/30 08:40:39] Total 8850 files processed
+[INFO]-[2019/06/30 08:40:39] Total 8850 files processed
+[INFO]-[2019/06/30 08:40:40] Total 8900 files processed
+[INFO]-[2019/06/30 08:40:40] Total 8900 files processed
+[INFO]-[2019/06/30 08:40:41] Total 8950 files processed
+[INFO]-[2019/06/30 08:40:41] Total 8950 files processed
+[INFO]-[2019/06/30 08:40:42] Total 9000 files processed
+[INFO]-[2019/06/30 08:40:42] Total 9000 files processed
+[INFO]-[2019/06/30 08:40:43] Total 9050 files processed
+[INFO]-[2019/06/30 08:40:43] Total 9050 files processed
+[INFO]-[2019/06/30 08:40:44] Total 9100 files processed
+[INFO]-[2019/06/30 08:40:44] Total 9100 files processed
+[INFO]-[2019/06/30 08:40:45] Total 9150 files processed
+[INFO]-[2019/06/30 08:40:45] Total 9150 files processed
+[INFO]-[2019/06/30 08:40:46] Total 9200 files processed
+[INFO]-[2019/06/30 08:40:46] Total 9200 files processed
+[INFO]-[2019/06/30 08:40:47] Total 9250 files processed
+[INFO]-[2019/06/30 08:40:47] Total 9250 files processed
+[INFO]-[2019/06/30 08:40:48] Total 9300 files processed
+[INFO]-[2019/06/30 08:40:48] Total 9300 files processed
+[INFO]-[2019/06/30 08:40:49] Total 9350 files processed
+[INFO]-[2019/06/30 08:40:49] Total 9350 files processed
+[INFO]-[2019/06/30 08:40:50] Total 9400 files processed
+[INFO]-[2019/06/30 08:40:50] Total 9400 files processed
+[INFO]-[2019/06/30 08:40:51] Total 9450 files processed
+[INFO]-[2019/06/30 08:40:51] Total 9450 files processed
+[INFO]-[2019/06/30 08:40:53] Total 9500 files processed
+[INFO]-[2019/06/30 08:40:53] Total 9500 files processed
+[INFO]-[2019/06/30 08:40:55] Total 9550 files processed
+[INFO]-[2019/06/30 08:40:55] Total 9550 files processed
+[INFO]-[2019/06/30 08:40:56] Total 9600 files processed
+[INFO]-[2019/06/30 08:40:56] Total 9600 files processed
+[INFO]-[2019/06/30 08:40:57] Total 9650 files processed
+[INFO]-[2019/06/30 08:40:57] Total 9650 files processed
+[INFO]-[2019/06/30 08:40:58] Total 9700 files processed
+[INFO]-[2019/06/30 08:40:58] Total 9700 files processed
+[INFO]-[2019/06/30 08:40:59] Total 9750 files processed
+[INFO]-[2019/06/30 08:40:59] Total 9750 files processed
+[INFO]-[2019/06/30 08:41:00] Total 9800 files processed
+[INFO]-[2019/06/30 08:41:00] Total 9800 files processed
+[INFO]-[2019/06/30 08:41:01] Total 9850 files processed
+[INFO]-[2019/06/30 08:41:01] Total 9850 files processed
+[INFO]-[2019/06/30 08:41:02] Total 9900 files processed
+[INFO]-[2019/06/30 08:41:02] Total 9900 files processed
+[INFO]-[2019/06/30 08:41:03] Total 9950 files processed
+[INFO]-[2019/06/30 08:41:03] Total 9950 files processed
+[INFO]-[2019/06/30 08:41:04] Total 10000 files processed
+[INFO]-[2019/06/30 08:41:04] Total 10000 files processed
+[INFO]-[2019/06/30 08:41:05] Total 10050 files processed
+[INFO]-[2019/06/30 08:41:05] Total 10050 files processed
+[INFO]-[2019/06/30 08:41:06] Total 10100 files processed
+[INFO]-[2019/06/30 08:41:06] Total 10100 files processed
+[INFO]-[2019/06/30 08:41:07] Total 10150 files processed
+[INFO]-[2019/06/30 08:41:07] Total 10150 files processed
+[INFO]-[2019/06/30 08:41:08] Total 10200 files processed
+[INFO]-[2019/06/30 08:41:08] Total 10200 files processed
+[INFO]-[2019/06/30 08:41:09] Total 10250 files processed
+[INFO]-[2019/06/30 08:41:09] Total 10250 files processed
+[INFO]-[2019/06/30 08:41:10] Total 10300 files processed
+[INFO]-[2019/06/30 08:41:10] Total 10300 files processed
+[INFO]-[2019/06/30 08:41:11] Total 10350 files processed
+[INFO]-[2019/06/30 08:41:11] Total 10350 files processed
+[INFO]-[2019/06/30 08:41:12] Total 10400 files processed
+[INFO]-[2019/06/30 08:41:12] Total 10400 files processed
+[INFO]-[2019/06/30 08:41:13] Total 10450 files processed
+[INFO]-[2019/06/30 08:41:13] Total 10450 files processed
+[INFO]-[2019/06/30 08:41:14] Total 10500 files processed
+[INFO]-[2019/06/30 08:41:14] Total 10500 files processed
+[INFO]-[2019/06/30 08:41:15] Total 10550 files processed
+[INFO]-[2019/06/30 08:41:15] Total 10550 files processed
+[INFO]-[2019/06/30 08:41:16] Total 10600 files processed
+[INFO]-[2019/06/30 08:41:16] Total 10600 files processed
+[INFO]-[2019/06/30 08:41:17] Total 10650 files processed
+[INFO]-[2019/06/30 08:41:17] Total 10650 files processed
+[INFO]-[2019/06/30 08:41:18] Total 10700 files processed
+[INFO]-[2019/06/30 08:41:18] Total 10700 files processed
+[INFO]-[2019/06/30 08:41:19] Total 10750 files processed
+[INFO]-[2019/06/30 08:41:19] Total 10750 files processed
+[INFO]-[2019/06/30 08:41:20] Total 10800 files processed
+[INFO]-[2019/06/30 08:41:20] Total 10800 files processed
+[INFO]-[2019/06/30 08:41:21] Total 10850 files processed
+[INFO]-[2019/06/30 08:41:21] Total 10850 files processed
+[INFO]-[2019/06/30 08:41:22] Total 10900 files processed
+[INFO]-[2019/06/30 08:41:22] Total 10900 files processed
+[INFO]-[2019/06/30 08:41:23] Total 10950 files processed
+[INFO]-[2019/06/30 08:41:23] Total 10950 files processed
+[INFO]-[2019/06/30 08:41:24] Total 11000 files processed
+[INFO]-[2019/06/30 08:41:24] Total 11000 files processed
+[INFO]-[2019/06/30 08:41:25] Total 11050 files processed
+[INFO]-[2019/06/30 08:41:25] Total 11050 files processed
+[INFO]-[2019/06/30 08:41:26] Total 11100 files processed
+[INFO]-[2019/06/30 08:41:26] Total 11100 files processed
+[INFO]-[2019/06/30 08:41:27] Total 11150 files processed
+[INFO]-[2019/06/30 08:41:27] Total 11150 files processed
+[INFO]-[2019/06/30 08:41:28] Total 11200 files processed
+[INFO]-[2019/06/30 08:41:28] Total 11200 files processed
+[INFO]-[2019/06/30 08:41:29] Total 11250 files processed
+[INFO]-[2019/06/30 08:41:29] Total 11250 files processed
+[INFO]-[2019/06/30 08:41:30] Total 11300 files processed
+[INFO]-[2019/06/30 08:41:30] Total 11300 files processed
+[INFO]-[2019/06/30 08:41:31] Total 11350 files processed
+[INFO]-[2019/06/30 08:41:31] Total 11350 files processed
+[INFO]-[2019/06/30 08:41:32] Total 11400 files processed
+[INFO]-[2019/06/30 08:41:32] Total 11400 files processed
+[INFO]-[2019/06/30 08:41:33] Total 11450 files processed
+[INFO]-[2019/06/30 08:41:33] Total 11450 files processed
+[INFO]-[2019/06/30 08:41:34] Total 11500 files processed
+[INFO]-[2019/06/30 08:41:34] Total 11500 files processed
+[INFO]-[2019/06/30 08:41:36] Total 11550 files processed
+[INFO]-[2019/06/30 08:41:36] Total 11550 files processed
+[INFO]-[2019/06/30 08:41:38] Total 11600 files processed
+[INFO]-[2019/06/30 08:41:38] Total 11600 files processed
+[INFO]-[2019/06/30 08:41:39] Total 11650 files processed
+[INFO]-[2019/06/30 08:41:39] Total 11650 files processed
+[INFO]-[2019/06/30 08:41:40] Total 11700 files processed
+[INFO]-[2019/06/30 08:41:40] Total 11700 files processed
+[INFO]-[2019/06/30 08:41:41] Total 11750 files processed
+[INFO]-[2019/06/30 08:41:41] Total 11750 files processed
+[INFO]-[2019/06/30 08:41:42] Total 11800 files processed
+[INFO]-[2019/06/30 08:41:42] Total 11800 files processed
+[INFO]-[2019/06/30 08:41:43] Total 11850 files processed
+[INFO]-[2019/06/30 08:41:43] Total 11850 files processed
+[INFO]-[2019/06/30 08:41:44] Total 11900 files processed
+[INFO]-[2019/06/30 08:41:44] Total 11900 files processed
+[INFO]-[2019/06/30 08:41:45] Total 11950 files processed
+[INFO]-[2019/06/30 08:41:45] Total 11950 files processed
+[INFO]-[2019/06/30 08:41:46] Total 12000 files processed
+[INFO]-[2019/06/30 08:41:46] Total 12000 files processed
+[INFO]-[2019/06/30 08:41:47] Total 12050 files processed
+[INFO]-[2019/06/30 08:41:47] Total 12050 files processed
+[INFO]-[2019/06/30 08:41:48] Total 12100 files processed
+[INFO]-[2019/06/30 08:41:48] Total 12100 files processed
+[INFO]-[2019/06/30 08:41:49] Total 12150 files processed
+[INFO]-[2019/06/30 08:41:49] Total 12150 files processed
+[INFO]-[2019/06/30 08:41:50] Total 12200 files processed
+[INFO]-[2019/06/30 08:41:50] Total 12200 files processed
+[INFO]-[2019/06/30 08:41:51] Total 12250 files processed
+[INFO]-[2019/06/30 08:41:51] Total 12250 files processed
+[INFO]-[2019/06/30 08:41:53] Total 12300 files processed
+[INFO]-[2019/06/30 08:41:53] Total 12300 files processed
+[INFO]-[2019/06/30 08:41:54] Total 12350 files processed
+[INFO]-[2019/06/30 08:41:54] Total 12350 files processed
+[INFO]-[2019/06/30 08:41:55] Total 12400 files processed
+[INFO]-[2019/06/30 08:41:55] Total 12400 files processed
+[INFO]-[2019/06/30 08:41:56] Total 12450 files processed
+[INFO]-[2019/06/30 08:41:56] Total 12450 files processed
+[INFO]-[2019/06/30 08:41:57] Total 12500 files processed
+[INFO]-[2019/06/30 08:41:57] Total 12500 files processed
+[INFO]-[2019/06/30 08:41:58] Total 12550 files processed
+[INFO]-[2019/06/30 08:41:58] Total 12550 files processed
+[INFO]-[2019/06/30 08:41:59] Total 12600 files processed
+[INFO]-[2019/06/30 08:41:59] Total 12600 files processed
+[INFO]-[2019/06/30 08:42:00] Total 12650 files processed
+[INFO]-[2019/06/30 08:42:00] Total 12650 files processed
+[INFO]-[2019/06/30 08:42:01] Total 12700 files processed
+[INFO]-[2019/06/30 08:42:01] Total 12700 files processed
+[INFO]-[2019/06/30 08:42:02] Total 12750 files processed
+[INFO]-[2019/06/30 08:42:02] Total 12750 files processed
+[INFO]-[2019/06/30 08:42:03] Total 12800 files processed
+[INFO]-[2019/06/30 08:42:03] Total 12800 files processed
+[INFO]-[2019/06/30 08:42:04] Total 12850 files processed
+[INFO]-[2019/06/30 08:42:04] Total 12850 files processed
+[INFO]-[2019/06/30 08:42:05] Total 12900 files processed
+[INFO]-[2019/06/30 08:42:05] Total 12900 files processed
+[INFO]-[2019/06/30 08:42:06] Total 12950 files processed
+[INFO]-[2019/06/30 08:42:06] Total 12950 files processed
+[INFO]-[2019/06/30 08:42:07] Total 13000 files processed
+[INFO]-[2019/06/30 08:42:07] Total 13000 files processed
+[INFO]-[2019/06/30 08:42:08] Total 13050 files processed
+[INFO]-[2019/06/30 08:42:08] Total 13050 files processed
+[INFO]-[2019/06/30 08:42:09] Total 13100 files processed
+[INFO]-[2019/06/30 08:42:09] Total 13100 files processed
+[INFO]-[2019/06/30 08:42:10] Total 13150 files processed
+[INFO]-[2019/06/30 08:42:10] Total 13150 files processed
+[INFO]-[2019/06/30 08:42:11] Total 13200 files processed
+[INFO]-[2019/06/30 08:42:11] Total 13200 files processed
+[INFO]-[2019/06/30 08:42:12] Total 13250 files processed
+[INFO]-[2019/06/30 08:42:12] Total 13250 files processed
+[INFO]-[2019/06/30 08:42:13] Total 13300 files processed
+[INFO]-[2019/06/30 08:42:13] Total 13300 files processed
+[INFO]-[2019/06/30 08:42:14] Total 13350 files processed
+[INFO]-[2019/06/30 08:42:14] Total 13350 files processed
+[INFO]-[2019/06/30 08:42:15] Total 13400 files processed
+[INFO]-[2019/06/30 08:42:15] Total 13400 files processed
+[INFO]-[2019/06/30 08:42:16] Total 13450 files processed
+[INFO]-[2019/06/30 08:42:16] Total 13450 files processed
+[INFO]-[2019/06/30 08:42:17] Total 13500 files processed
+[INFO]-[2019/06/30 08:42:17] Total 13500 files processed
+[INFO]-[2019/06/30 08:42:18] Total 13550 files processed
+[INFO]-[2019/06/30 08:42:18] Total 13550 files processed
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js
+[INFO]-[2019/06/30 08:42:19] Total 13600 files processed
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js
+[INFO]-[2019/06/30 08:42:19] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js
+[INFO]-[2019/06/30 08:42:19] Total 13600 files processed
+[INFO]-[2019/06/30 08:42:20] Total 13650 files processed
+[INFO]-[2019/06/30 08:42:20] Total 13650 files processed
+[INFO]-[2019/06/30 08:42:21] Total 13700 files processed
+[INFO]-[2019/06/30 08:42:21] Total 13700 files processed
+[INFO]-[2019/06/30 08:42:22] Total 13750 files processed
+[INFO]-[2019/06/30 08:42:22] Total 13750 files processed
+[INFO]-[2019/06/30 08:42:23] Total 13800 files processed
+[INFO]-[2019/06/30 08:42:23] Total 13800 files processed
+[INFO]-[2019/06/30 08:42:24] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css
+[INFO]-[2019/06/30 08:42:24] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css
+[INFO]-[2019/06/30 08:42:24] Total 13850 files processed
+[INFO]-[2019/06/30 08:42:24] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css
+[INFO]-[2019/06/30 08:42:24] Trying to copy big file: /home1/kronosb1/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css -> /home1/kronosb1/public_html/kronos/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css
+[INFO]-[2019/06/30 08:42:24] Total 13850 files processed
+[INFO]-[2019/06/30 08:42:25] Total 13900 files processed
+[INFO]-[2019/06/30 08:42:25] Total 13900 files processed
+[INFO]-[2019/06/30 08:42:26] Total 13950 files processed
+[INFO]-[2019/06/30 08:42:26] Total 13950 files processed
+[INFO]-[2019/06/30 08:42:28] Total 14000 files processed
+[INFO]-[2019/06/30 08:42:28] Total 14000 files processed
+[INFO]-[2019/06/30 08:42:29] Total 14050 files processed
+[INFO]-[2019/06/30 08:42:29] Total 14050 files processed
+[INFO]-[2019/06/30 08:42:30] Total 14100 files processed
+[INFO]-[2019/06/30 08:42:30] Total 14100 files processed
+[INFO]-[2019/06/30 08:42:31] Total 14150 files processed
+[INFO]-[2019/06/30 08:42:31] Total 14150 files processed
+[INFO]-[2019/06/30 08:42:32] Total 14200 files processed
+[INFO]-[2019/06/30 08:42:32] Total 14200 files processed
+[INFO]-[2019/06/30 08:42:33] Total 14250 files processed
+[INFO]-[2019/06/30 08:42:33] Total 14250 files processed
+[INFO]-[2019/06/30 08:42:34] Total 14300 files processed
+[INFO]-[2019/06/30 08:42:34] Total 14300 files processed
+[INFO]-[2019/06/30 08:42:35] Total 14350 files processed
+[INFO]-[2019/06/30 08:42:35] Total 14350 files processed
+[INFO]-[2019/06/30 08:42:36] Total 14400 files processed
+[INFO]-[2019/06/30 08:42:36] Total 14400 files processed
+[INFO]-[2019/06/30 08:42:37] Total 14450 files processed
+[INFO]-[2019/06/30 08:42:37] Total 14450 files processed
+[INFO]-[2019/06/30 08:42:38] Total 14500 files processed
+[INFO]-[2019/06/30 08:42:38] Total 14500 files processed
+[INFO]-[2019/06/30 08:42:39] Total 14550 files processed
+[INFO]-[2019/06/30 08:42:39] Total 14550 files processed
+[INFO]-[2019/06/30 08:42:40] Total 14600 files processed
+[INFO]-[2019/06/30 08:42:40] Total 14600 files processed
+[INFO]-[2019/06/30 08:42:41] Total 14650 files processed
+[INFO]-[2019/06/30 08:42:41] Total 14650 files processed
+[INFO]-[2019/06/30 08:42:42] Total 14700 files processed
+[INFO]-[2019/06/30 08:42:42] Total 14700 files processed
+[INFO]-[2019/06/30 08:42:43] Total 14750 files processed
+[INFO]-[2019/06/30 08:42:43] Total 14750 files processed
+[INFO]-[2019/06/30 08:42:44] Total 14800 files processed
+[INFO]-[2019/06/30 08:42:44] Total 14800 files processed
+[INFO]-[2019/06/30 08:42:45] Skipping big file: /home1/kronosb1/public_html/wp-content/uploads/2019/06/app-zeroner-release海外测试.apk
+[INFO]-[2019/06/30 08:42:45] Total 14850 files processed
+[INFO]-[2019/06/30 08:42:45] Skipping big file: /home1/kronosb1/public_html/wp-content/uploads/2019/06/app-zeroner-release海外测试.apk
+[INFO]-[2019/06/30 08:42:45] Total 14850 files processed
+[INFO]-[2019/06/30 08:42:46] Total 14900 files processed
+[INFO]-[2019/06/30 08:42:46] Total 14900 files processed
+[INFO]-[2019/06/30 08:42:47] Total 14950 files processed
+[INFO]-[2019/06/30 08:42:47] Total 14950 files processed
+[INFO]-[2019/06/30 08:42:48] Total 15000 files processed
+[INFO]-[2019/06/30 08:42:48] Total 15000 files processed
+[INFO]-[2019/06/30 08:42:49] Total 15050 files processed
+[INFO]-[2019/06/30 08:42:49] Total 15050 files processed
+[INFO]-[2019/06/30 08:42:50] Total 15100 files processed
+[INFO]-[2019/06/30 08:42:50] Total 15100 files processed
+[INFO]-[2019/06/30 08:42:51] Total 15150 files processed
+[INFO]-[2019/06/30 08:42:51] Total 15150 files processed
+[INFO]-[2019/06/30 08:42:53] Total 15200 files processed
+[INFO]-[2019/06/30 08:42:53] Total 15200 files processed
+[INFO]-[2019/06/30 08:42:54] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/bgd__homepage_intro-beautify.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/bgd__homepage_intro-beautify.png
+[INFO]-[2019/06/30 08:42:54] Total 15250 files processed
+[INFO]-[2019/06/30 08:42:54] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/bgd__homepage_intro-beautify.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/bgd__homepage_intro-beautify.png
+[INFO]-[2019/06/30 08:42:54] Total 15250 files processed
+[INFO]-[2019/06/30 08:42:55] Total 15300 files processed
+[INFO]-[2019/06/30 08:42:55] Total 15300 files processed
+[INFO]-[2019/06/30 08:42:56] Total 15350 files processed
+[INFO]-[2019/06/30 08:42:56] Total 15350 files processed
+[INFO]-[2019/06/30 08:42:57] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/apollo-fitness.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/apollo-fitness.png
+[INFO]-[2019/06/30 08:42:57] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/apollo-watch-768x2243.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/apollo-watch-768x2243.png
+[INFO]-[2019/06/30 08:42:57] Total 15400 files processed
+[INFO]-[2019/06/30 08:42:57] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/apollo-fitness.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/apollo-fitness.png
+[INFO]-[2019/06/30 08:42:57] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/apollo-watch-768x2243.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/apollo-watch-768x2243.png
+[INFO]-[2019/06/30 08:42:57] Total 15400 files processed
+[INFO]-[2019/06/30 08:42:58] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/apollo-watch.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/apollo-watch.png
+[INFO]-[2019/06/30 08:42:58] Total 15450 files processed
+[INFO]-[2019/06/30 08:42:58] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2019/05/apollo-watch.png -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2019/05/apollo-watch.png
+[INFO]-[2019/06/30 08:42:58] Total 15450 files processed
+[INFO]-[2019/06/30 08:42:59] Total 15500 files processed
+[INFO]-[2019/06/30 08:42:59] Total 15500 files processed
+[INFO]-[2019/06/30 08:43:00] Total 15550 files processed
+[INFO]-[2019/06/30 08:43:00] Total 15550 files processed
+[INFO]-[2019/06/30 08:43:01] Total 15600 files processed
+[INFO]-[2019/06/30 08:43:01] Total 15600 files processed
+[INFO]-[2019/06/30 08:43:02] Total 15650 files processed
+[INFO]-[2019/06/30 08:43:02] Total 15650 files processed
+[INFO]-[2019/06/30 08:43:03] Total 15700 files processed
+[INFO]-[2019/06/30 08:43:03] Total 15700 files processed
+[INFO]-[2019/06/30 08:43:04] Total 15750 files processed
+[INFO]-[2019/06/30 08:43:04] Total 15750 files processed
+[INFO]-[2019/06/30 08:43:05] Total 15800 files processed
+[INFO]-[2019/06/30 08:43:05] Total 15800 files processed
+[INFO]-[2019/06/30 08:43:06] Total 15850 files processed
+[INFO]-[2019/06/30 08:43:06] Total 15850 files processed
+[INFO]-[2019/06/30 08:43:08] Total 15900 files processed
+[INFO]-[2019/06/30 08:43:08] Total 15900 files processed
+[INFO]-[2019/06/30 08:43:11] Total 15950 files processed
+[INFO]-[2019/06/30 08:43:11] Total 15950 files processed
+[INFO]-[2019/06/30 08:43:40] Total 16000 files processed
+[INFO]-[2019/06/30 08:43:40] Total 16000 files processed
+[INFO]-[2019/06/30 08:43:57] Total 16050 files processed
+[INFO]-[2019/06/30 08:43:57] Total 16050 files processed
+[INFO]-[2019/06/30 08:44:18] Total 16100 files processed
+[INFO]-[2019/06/30 08:44:18] Total 16100 files processed
+[INFO]-[2019/06/30 08:44:38] Total 16150 files processed
+[INFO]-[2019/06/30 08:44:38] Total 16150 files processed
+[INFO]-[2019/06/30 08:45:05] Total 16200 files processed
+[INFO]-[2019/06/30 08:45:05] Total 16200 files processed
+[INFO]-[2019/06/30 08:49:42] Total 16250 files processed
+[INFO]-[2019/06/30 08:49:42] Total 16250 files processed
+[INFO]-[2019/06/30 08:49:58] Total 16300 files processed
+[INFO]-[2019/06/30 08:49:58] Total 16300 files processed
+[INFO]-[2019/06/30 08:53:42] Total 16350 files processed
+[INFO]-[2019/06/30 08:53:42] Total 16350 files processed
+[INFO]-[2019/06/30 08:53:44] Total 16400 files processed
+[INFO]-[2019/06/30 08:53:44] Total 16400 files processed
+[INFO]-[2019/06/30 08:53:46] Total 16450 files processed
+[INFO]-[2019/06/30 08:53:46] Total 16450 files processed
+[INFO]-[2019/06/30 08:53:49] Total 16500 files processed
+[INFO]-[2019/06/30 08:53:49] Total 16500 files processed
+[INFO]-[2019/06/30 08:53:53] Total 16550 files processed
+[INFO]-[2019/06/30 08:53:53] Total 16550 files processed
+[INFO]-[2019/06/30 08:53:54] Total 16600 files processed
+[INFO]-[2019/06/30 08:53:54] Total 16600 files processed
+[INFO]-[2019/06/30 08:53:55] Total 16650 files processed
+[INFO]-[2019/06/30 08:53:55] Total 16650 files processed
+[INFO]-[2019/06/30 08:53:56] Total 16700 files processed
+[INFO]-[2019/06/30 08:53:56] Total 16700 files processed
+[INFO]-[2019/06/30 08:53:57] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2016/12/originaldixielandjazzbandwithalbernard-stlouisblues.mp3 -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2016/12/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
+[INFO]-[2019/06/30 08:53:57] Total 16750 files processed
+[INFO]-[2019/06/30 08:53:57] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/2016/12/originaldixielandjazzbandwithalbernard-stlouisblues.mp3 -> /home1/kronosb1/public_html/kronos/wp-content/uploads/2016/12/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
+[INFO]-[2019/06/30 08:53:57] Total 16750 files processed
+[INFO]-[2019/06/30 08:53:58] Total 16800 files processed
+[INFO]-[2019/06/30 08:53:58] Total 16800 files processed
+[INFO]-[2019/06/30 08:53:59] Skipping big file: /home1/kronosb1/public_html/wp-content/uploads/ninja-forms/4/y2mate.com-kronosblade_janus_dual_4g_smartwatch_is_thor_4_dual_thor_4_pro_16_screen_unboxing_1st_look_PbDDMfPBG4U_360p.mp4
+[INFO]-[2019/06/30 08:53:59] Total 16850 files processed
+[INFO]-[2019/06/30 08:53:59] Skipping big file: /home1/kronosb1/public_html/wp-content/uploads/ninja-forms/4/y2mate.com-kronosblade_janus_dual_4g_smartwatch_is_thor_4_dual_thor_4_pro_16_screen_unboxing_1st_look_PbDDMfPBG4U_360p.mp4
+[INFO]-[2019/06/30 08:53:59] Total 16850 files processed
+[INFO]-[2019/06/30 08:54:00] Total 16900 files processed
+[INFO]-[2019/06/30 08:54:00] Total 16900 files processed
+[INFO]-[2019/06/30 08:54:01] Total 16950 files processed
+[INFO]-[2019/06/30 08:54:01] Total 16950 files processed
+[INFO]-[2019/06/30 08:54:02] Total 17000 files processed
+[INFO]-[2019/06/30 08:54:02] Total 17000 files processed
+[INFO]-[2019/06/30 08:54:03] Total 17050 files processed
+[INFO]-[2019/06/30 08:54:03] Total 17050 files processed
+[INFO]-[2019/06/30 08:54:04] Total 17100 files processed
+[INFO]-[2019/06/30 08:54:04] Total 17100 files processed
+[INFO]-[2019/06/30 08:54:05] Total 17150 files processed
+[INFO]-[2019/06/30 08:54:05] Total 17150 files processed
+[INFO]-[2019/06/30 08:54:06] Total 17200 files processed
+[INFO]-[2019/06/30 08:54:06] Total 17200 files processed
+[INFO]-[2019/06/30 08:54:07] Total 17250 files processed
+[INFO]-[2019/06/30 08:54:07] Total 17250 files processed
+[INFO]-[2019/06/30 08:54:08] Total 17300 files processed
+[INFO]-[2019/06/30 08:54:08] Total 17300 files processed
+[INFO]-[2019/06/30 08:54:09] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/GeoLite2-Country.mmdb -> /home1/kronosb1/public_html/kronos/wp-content/uploads/GeoLite2-Country.mmdb
+[INFO]-[2019/06/30 08:54:09] Total 17350 files processed
+[INFO]-[2019/06/30 08:54:09] Trying to copy big file: /home1/kronosb1/public_html/wp-content/uploads/GeoLite2-Country.mmdb -> /home1/kronosb1/public_html/kronos/wp-content/uploads/GeoLite2-Country.mmdb
+[INFO]-[2019/06/30 08:54:09] Total 17350 files processed
+[INFO]-[2019/06/30 08:54:10] Total 17400 files processed
+[INFO]-[2019/06/30 08:54:10] Total 17400 files processed
+[INFO]-[2019/06/30 08:54:11] Total 17450 files processed
+[INFO]-[2019/06/30 08:54:11] Total 17450 files processed
+[INFO]-[2019/06/30 08:54:12] Total 17500 files processed
+[INFO]-[2019/06/30 08:54:12] Total 17500 files processed
+[INFO]-[2019/06/30 08:54:13] Trying to copy big file: /home1/kronosb1/public_html/wp-content/themes/goral/fonts/monia.svg -> /home1/kronosb1/public_html/kronos/wp-content/themes/goral/fonts/monia.svg
+[INFO]-[2019/06/30 08:54:13] Total 17550 files processed
+[INFO]-[2019/06/30 08:54:13] Trying to copy big file: /home1/kronosb1/public_html/wp-content/themes/goral/fonts/monia.svg -> /home1/kronosb1/public_html/kronos/wp-content/themes/goral/fonts/monia.svg
+[INFO]-[2019/06/30 08:54:13] Total 17550 files processed
+[INFO]-[2019/06/30 08:54:14] Total 17600 files processed
+[INFO]-[2019/06/30 08:54:14] Total 17600 files processed
+[INFO]-[2019/06/30 08:54:15] Trying to copy big file: /home1/kronosb1/public_html/wp-content/themes/goral/inc/plugins/revslider.zip -> /home1/kronosb1/public_html/kronos/wp-content/themes/goral/inc/plugins/revslider.zip
+[INFO]-[2019/06/30 08:54:15] Trying to copy big file: /home1/kronosb1/public_html/wp-content/themes/goral/inc/plugins/js_composer.zip -> /home1/kronosb1/public_html/kronos/wp-content/themes/goral/inc/plugins/js_composer.zip
+[INFO]-[2019/06/30 08:54:15] Total 17650 files processed
+[INFO]-[2019/06/30 08:54:15] Trying to copy big file: /home1/kronosb1/public_html/wp-content/themes/goral/inc/plugins/revslider.zip -> /home1/kronosb1/public_html/kronos/wp-content/themes/goral/inc/plugins/revslider.zip
+[INFO]-[2019/06/30 08:54:15] Trying to copy big file: /home1/kronosb1/public_html/wp-content/themes/goral/inc/plugins/js_composer.zip -> /home1/kronosb1/public_html/kronos/wp-content/themes/goral/inc/plugins/js_composer.zip
+[INFO]-[2019/06/30 08:54:15] Total 17650 files processed
+[INFO]-[2019/06/30 08:54:16] Total 17700 files processed
+[INFO]-[2019/06/30 08:54:16] Total 17700 files processed
+[INFO]-[2019/06/30 08:54:17] Total 17750 files processed
+[INFO]-[2019/06/30 08:54:17] Total 17750 files processed
+[INFO]-[2019/06/30 08:54:18] Total 17800 files processed
+[INFO]-[2019/06/30 08:54:18] Total 17800 files processed
+[INFO]-[2019/06/30 08:54:19] Total 17850 files processed
+[INFO]-[2019/06/30 08:54:19] Total 17850 files processed
+[INFO]-[2019/06/30 08:54:20] Total 17900 files processed
+[INFO]-[2019/06/30 08:54:20] Total 17900 files processed
+[INFO]-[2019/06/30 08:54:21] Total 17950 files processed
+[INFO]-[2019/06/30 08:54:21] Total 17950 files processed
+[INFO]-[2019/06/30 08:54:22] Total 18000 files processed
+[INFO]-[2019/06/30 08:54:22] Total 18000 files processed
+[INFO]-[2019/06/30 08:54:23] Total 18050 files processed
+[INFO]-[2019/06/30 08:54:23] Total 18050 files processed
+[INFO]-[2019/06/30 08:54:24] Total 18100 files processed
+[INFO]-[2019/06/30 08:54:24] Total 18100 files processed
+[INFO]-[2019/06/30 08:54:25] Total 18150 files processed
+[INFO]-[2019/06/30 08:54:25] Total 18150 files processed
+[INFO]-[2019/06/30 08:54:28] Total 18200 files processed
+[INFO]-[2019/06/30 08:54:28] Total 18200 files processed
+[INFO]-[2019/06/30 08:54:29] Total 18250 files processed
+[INFO]-[2019/06/30 08:54:29] Total 18250 files processed
+[INFO]-[2019/06/30 08:54:30] Total 18300 files processed
+[INFO]-[2019/06/30 08:54:30] Total 18300 files processed
+[INFO]-[2019/06/30 08:54:31] Total 18350 files processed
+[INFO]-[2019/06/30 08:54:31] Total 18350 files processed
+[INFO]-[2019/06/30 08:54:32] Total 18400 files processed
+[INFO]-[2019/06/30 08:54:32] Total 18400 files processed
+[INFO]-[2019/06/30 08:54:33] Total 18450 files processed
+[INFO]-[2019/06/30 08:54:33] Total 18450 files processed
+[INFO]-[2019/06/30 08:54:34] Total 18500 files processed
+[INFO]-[2019/06/30 08:54:34] Total 18500 files processed
+[INFO]-[2019/06/30 08:54:35] Total 18550 files processed
+[INFO]-[2019/06/30 08:54:35] Total 18550 files processed
+[INFO]-[2019/06/30 08:54:36] Total 18600 files processed
+[INFO]-[2019/06/30 08:54:36] Total 18600 files processed
+[INFO]-[2019/06/30 08:54:37] Total 18650 files processed
+[INFO]-[2019/06/30 08:54:37] Total 18650 files processed
+[INFO]-[2019/06/30 08:54:38] Total 18700 files processed
+[INFO]-[2019/06/30 08:54:38] Total 18700 files processed
+[INFO]-[2019/06/30 08:54:39] Total 18750 files processed
+[INFO]-[2019/06/30 08:54:39] Total 18750 files processed
+[INFO]-[2019/06/30 08:54:40] Total 18800 files processed
+[INFO]-[2019/06/30 08:54:40] Total 18800 files processed
+[INFO]-[2019/06/30 08:54:41] Total 18850 files processed
+[INFO]-[2019/06/30 08:54:41] Total 18850 files processed
+[INFO]-[2019/06/30 08:54:42] Total 18900 files processed
+[INFO]-[2019/06/30 08:54:42] Total 18900 files processed
+[INFO]-[2019/06/30 08:54:43] Total 18950 files processed
+[INFO]-[2019/06/30 08:54:43] Total 18950 files processed
+[INFO]-[2019/06/30 08:54:44] Total 19000 files processed
+[INFO]-[2019/06/30 08:54:44] Total 19000 files processed
+[INFO]-[2019/06/30 08:54:45] Total 19050 files processed
+[INFO]-[2019/06/30 08:54:45] Total 19050 files processed
+[INFO]-[2019/06/30 08:54:46] Total 19100 files processed
+[INFO]-[2019/06/30 08:54:46] Total 19100 files processed
+[INFO]-[2019/06/30 08:54:47] Total 19150 files processed
+[INFO]-[2019/06/30 08:54:47] Total 19150 files processed
+[INFO]-[2019/06/30 08:54:48] Total 19200 files processed
+[INFO]-[2019/06/30 08:54:48] Total 19200 files processed
+[INFO]-[2019/06/30 08:54:49] Total 19250 files processed
+[INFO]-[2019/06/30 08:54:49] Total 19250 files processed
+[INFO]-[2019/06/30 08:54:50] Total 19300 files processed
+[INFO]-[2019/06/30 08:54:50] Total 19300 files processed
+[INFO]-[2019/06/30 08:54:51] Total 19350 files processed
+[INFO]-[2019/06/30 08:54:51] Total 19350 files processed
+[INFO]-[2019/06/30 08:54:53] Total 19400 files processed
+[INFO]-[2019/06/30 08:54:53] Total 19400 files processed
+[INFO]-[2019/06/30 08:54:54] Total 19450 files processed
+[INFO]-[2019/06/30 08:54:54] Total 19450 files processed
+[WARNING]-[2019/06/30 08:54:55] File doesn't exist /home1/kronosb1/public_html/
+[WARNING]-[2019/06/30 08:54:55] File doesn't exist /home1/kronosb1/public_html/
+[INFO]-[2019/06/30 08:54:56] Copying files finished
+[INFO]-[2019/06/30 08:54:56] Copying files finished
+[INFO]-[2019/06/30 08:54:57] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/06/30 08:54:57] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/06/30 08:54:58] Preparing Data Step1: Updating siteurl and homeurl in wpstg1_options 
+[INFO]-[2019/06/30 08:54:58] Preparing Data Step1: Updating siteurl and homeurl to https://kronosblade.com/kronos
+[WARNING]-[2019/06/30 08:54:58] Preparing Data Step1: Skip updating siteurl and homeurl in wpstg1_options. Probably already did! 
+[INFO]-[2019/06/30 08:54:58] Preparing Data Step1: Updating siteurl and homeurl in wpstg1_options 
+[INFO]-[2019/06/30 08:54:58] Preparing Data Step1: Updating siteurl and homeurl to https://kronosblade.com/kronos
+[WARNING]-[2019/06/30 08:54:58] Preparing Data Step1: Skip updating siteurl and homeurl in wpstg1_options. Probably already did! 
+[INFO]-[2019/06/30 08:54:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg1_options 
+[INFO]-[2019/06/30 08:54:59] Preparing Data Step2: Successfull
+[INFO]-[2019/06/30 08:54:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg1_options 
+[INFO]-[2019/06/30 08:54:59] Preparing Data Step2: Successfull
+[INFO]-[2019/06/30 08:55:00] Preparing Data Step3: Updating rewrite_rules in wpstg1_options 
+[INFO]-[2019/06/30 08:55:00] Preparing Data Step3: Updating rewrite_rules in wpstg1_options 
+[INFO]-[2019/06/30 08:55:01] Preparing Data Step4: Updating db prefix in wpstg1_usermeta. 
+[INFO]-[2019/06/30 08:55:01] Preparing Data Step4: Updating db prefix in wpstg1_usermeta. 
+[INFO]-[2019/06/30 08:55:02] Preparing Data Step5: Updating table_prefix in /home1/kronosb1/public_html/kronos/wp-config.php to wpstg1_
+[INFO]-[2019/06/30 08:55:02] Preparing Data Step5: Updating table_prefix in /home1/kronosb1/public_html/kronos/wp-config.php to wpstg1_
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:55:04] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg1_options 
+[INFO]-[2019/06/30 08:55:04] Preparing Data Step7: Finished successfully
+[INFO]-[2019/06/30 08:55:04] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg1_options 
+[INFO]-[2019/06/30 08:55:04] Preparing Data Step7: Finished successfully
+[INFO]-[2019/06/30 08:55:05] Preparing Data Step8: Updating permalink_structure in wpstg1_options 
+[INFO]-[2019/06/30 08:55:05] Preparing Data Step8: Finished successfully
+[INFO]-[2019/06/30 08:55:05] Preparing Data Step8: Updating permalink_structure in wpstg1_options 
+[INFO]-[2019/06/30 08:55:05] Preparing Data Step8: Finished successfully
+[INFO]-[2019/06/30 08:55:06] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/06/30 08:55:06] Preparing Data Step9: Finished successfully
+[INFO]-[2019/06/30 08:55:06] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/06/30 08:55:06] Preparing Data Step9: Finished successfully
+[INFO]-[2019/06/30 08:55:07] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://kronosblade.com/kronos
+[INFO]-[2019/06/30 08:55:07] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:07] Preparing Data Step10: Finished successfully
+[INFO]-[2019/06/30 08:55:07] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://kronosblade.com/kronos
+[INFO]-[2019/06/30 08:55:07] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:07] Preparing Data Step10: Finished successfully
+[INFO]-[2019/06/30 08:55:09] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://kronosblade.com/kronos
+[INFO]-[2019/06/30 08:55:09] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:09] Preparing Data Step11: Finished successfully
+[INFO]-[2019/06/30 08:55:09] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://kronosblade.com/kronos
+[INFO]-[2019/06/30 08:55:09] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:09] Preparing Data Step11: Finished successfully
+[INFO]-[2019/06/30 08:55:10] Preparing Data Step12: Updating db prefix in wpstg1_options.
+[INFO]-[2019/06/30 08:55:10] Preparing Data Step12: Finished successfully
+[INFO]-[2019/06/30 08:55:10] Preparing Data Step12: Updating db prefix in wpstg1_options.
+[INFO]-[2019/06/30 08:55:10] Preparing Data Step12: Finished successfully
+[INFO]-[2019/06/30 08:55:11] Preparing Data Step13: Updating upload_path wpstg1_options.
+[INFO]-[2019/06/30 08:55:11] Preparing Data Step13: Skipped
+[INFO]-[2019/06/30 08:55:11] Preparing Data Step13: Updating upload_path wpstg1_options.
+[INFO]-[2019/06/30 08:55:11] Preparing Data Step13: Skipped
+[INFO]-[2019/06/30 08:55:12] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/06/30 08:55:12] Preparing Data Step14: Finished successfully
+[INFO]-[2019/06/30 08:55:12] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/06/30 08:55:12] Preparing Data Step14: Finished successfully
+[INFO]-[2019/06/30 08:55:13] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/06/30 08:55:13] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:13] Preparing Data Step15: Finished successfully
+[INFO]-[2019/06/30 08:55:13] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/06/30 08:55:13] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:13] Preparing Data Step15: Finished successfully
+[INFO]-[2019/06/30 08:55:14] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/06/30 08:55:14] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:14] Preparing Data Step16: Finished successfully
+[INFO]-[2019/06/30 08:55:14] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/06/30 08:55:14] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:14] Preparing Data Step16: Finished successfully
+[INFO]-[2019/06/30 08:55:15] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/06/30 08:55:15] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:15] Preparing Data Step17: Finished successfully
+[INFO]-[2019/06/30 08:55:15] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/06/30 08:55:15] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/06/30 08:55:15] Preparing Data Step17: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/06/30 08:55:17] Finish: Deleting clone job's cache files...
+[INFO]-[2019/06/30 08:55:17] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/06/30 08:55:17] Finish: Verifying existing clones...
+[INFO]-[2019/06/30 08:55:17] Finish: The job finished!
+[INFO]-[2019/06/30 08:55:17] Finish: Deleting clone job's cache files...
+[INFO]-[2019/06/30 08:55:17] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/06/30 08:55:17] Finish: Verifying existing clones...
+[INFO]-[2019/06/30 08:55:17] Finish: The job finished!

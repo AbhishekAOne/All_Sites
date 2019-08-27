@@ -1,0 +1,81 @@
+2019-08-17T06:13:48+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:26:38+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:27:47+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:32:10+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:34:24+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:36:14+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:43:44+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:45:30+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+
+2019-08-17T06:45:58+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php:2
+Stack trace:
+#0 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-template.php(38): include()
+#1 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/shortcode/class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 /home1/kronosb1/public_html/wp-includes/shortcodes.php(325): WCMp_Shortcode->wcmp_vendor_registration_shortcode('', '', 'vendor_registra...')
+#5 [internal function]: do_shortcode in /home1/kronosb1/public_html/wp-content/plugins/dc-woocommerce-multi-vendor/templates/shortcode/vendor_registration.php on line 2
+

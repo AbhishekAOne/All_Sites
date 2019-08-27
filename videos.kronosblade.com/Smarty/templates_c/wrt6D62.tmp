@@ -1,0 +1,16 @@
+<?php /* Smarty version 2.6.20, created on 2017-08-02 09:02:35
+         compiled from header.tpl */
+
+$this->_cache_serials['C:\wamp\phpmelody.dev/Smarty/templates_c\%%F7^F7F^F7F34188%%header.tpl.inc'] = '4e2702371dcd4fac52446d13722a7ef9';
+
+?><?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'default', 'header.tpl', 76, false),array('modifier', 'escape', 'header.tpl', 93, false),array('function', 'dropdown_menu_video_categories', 'header.tpl', 385, false),array('function', 'dropdown_menu_article_categories', 'header.tpl', 393, false),)), $this); ?>
+<?php
+function _smarty_tplfunc_4e2702371dcd4fac52446d13722a7ef9_0(&$_smarty)
+{
+echo smarty_art_html_list_categories(array('max_levels' => 3), $_smarty);
+}
+
+
+
+?>

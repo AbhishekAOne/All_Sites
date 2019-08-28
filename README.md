@@ -7,7 +7,7 @@ to use it please copy full wp-content folder's content into your wp-content dire
 
 **The Above mentioned sites are all hosted**
 
-You can go these urls:
+You can go to these urls:
 1. https://www.kronosblade.com
 2. https://videos.kronosblade.com
 
